@@ -1,0 +1,12 @@
+{
+   "pmpi_barrier_" : "xkcd:bright red",
+   "pmpi_alltoall_" : "xkcd:bright magenta",
+   "pmpi_bcast_" : "xkcd:salmon pink",
+   "pmpi_allreduce_" : "xkcd:vivid purple",
+   "[MKL FFT]@compute_bwd_d_c2c_1d_o" : "xkcd:rich blue",
+   "[MKL FFT]@compute_fwd_d_c2c_1d_o" : "xkcd:rich blue",
+   "zgemm_" : "xkcd:cyan",
+   "__intel_avx_rep_memset" : "xkcd:light bright green",
+   "getrusage" : "xkcd:very light green",
+   "tg_cft3s" : "xkcd:golden yellow"
+}

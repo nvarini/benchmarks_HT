@@ -1,0 +1,4 @@
+With this run we show the results of the profiling over the NM dataset.
+The profiling has been done with Intel VTUNE amplifier and it shows the
+10 most expensive functions for each calculation.
+The calculation are executed on Fidis with QE default parameters.
