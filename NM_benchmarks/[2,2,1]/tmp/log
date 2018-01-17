@@ -1,0 +1,235 @@
+AAAAAA
+defaultdict(<type 'list'>, {u'Ge24Pt48': [6120.0], u'Os8Ti8': [412.47], u'I16Mn8': [2573.04], u'Sb16Mn16': [4620.0], u'Au32V8': [9660.0], u'Mg64Cu32': [0.0], u'I16V8': [595.16], u'F24Ti8': [898.21], u'S16Ta8': [1151.48], u'Ca8O8': [359.53], u'Tl32Se32': [2422.15], u'I32Be16': [1939.18], u'O16Pd16': [1041.06], u'B16Fe16': [5580.0], u'Re8Si16': [605.35], u'Mn16Sn32': [22440.0], u'Sc8Ag16': [2092.21], u'Cr8O16Na8': [4080.0], u'Cr16F32': [2170.16], u'Kr16': [1419.4], u'Y8Ga16': [530.42], u'S16Mn16': [3660.0], u'Mn16Bi16': [5460.0], u'Co16F32': [1915.73], u'Nb8N8': [341.29], u'Pb16O16': [804.04], u'Br16V8': [722.61], u'Cr16Cl32': [2314.17], u'F16Xe8': [3960.0], u'Zn16': [641.56], u'Cr8N8': [1500.82], u'Ru8Zr8': [479.05], u'Hg24O24': [1907.94], u'Cr8O16Li8': [3169.05], u'Mn16F32': [3840.0], u'Cr8Br16': [743.79], u'O16Rb16': [771.71], u'Ir8Hf8': [288.18], u'Ar16': [1468.19], u'Ne8': [1891.42], u'Cr8O32Sr16': [11460.0], u'Mo16Cl80': [9960.0], u'Cr8K8O16': [8880.0], u'Cs8H8': [191.69], u'Te8Ba8': [400.16], u'Sc8Rh24': [1390.62], u'F16Ti8': [808.49], u'Ni8': [769.64], u'C16O48Cd16': [5520.0], u'Al8Fe8': [883.59], u'Ni16As16': [969.02], u'P8In8': [316.67], u'W8': [201.14]})
+BBBBBB
+{u'insulating magnetic': OrderedDict([(u'I16V8', [595.16]), (u'Br16V8', [722.61]), (u'Cr8Br16', [743.79]), (u'F16Ti8', [808.49]), (u'Co16F32', [1915.73]), (u'Cr16F32', [2170.16]), (u'Cr16Cl32', [2314.17]), (u'I16Mn8', [2573.04]), (u'Cr8O16Li8', [3169.05]), (u'Mn16F32', [3840.0]), (u'Cr8O16Na8', [4080.0]), (u'Cr8K8O16', [8880.0])]), u'insulating': OrderedDict([(u'Cs8H8', [191.69]), (u'P8In8', [316.67]), (u'Ca8O8', [359.53]), (u'Te8Ba8', [400.16]), (u'O16Rb16', [771.71]), (u'Pb16O16', [804.04]), (u'Kr16', [1419.4]), (u'Ar16', [1468.19]), (u'Ne8', [1891.42]), (u'Hg24O24', [1907.94]), (u'I32Be16', [1939.18]), (u'Tl32Se32', [2422.15]), (u'F16Xe8', [3960.0]), (u'C16O48Cd16', [5520.0])]), u'metallic magnetic': OrderedDict([(u'Ni8', [769.64]), (u'Al8Fe8', [883.59]), (u'F24Ti8', [898.21]), (u'Cr8N8', [1500.82]), (u'S16Mn16', [3660.0]), (u'Sb16Mn16', [4620.0]), (u'Mn16Bi16', [5460.0]), (u'B16Fe16', [5580.0]), (u'Au32V8', [9660.0]), (u'Mo16Cl80', [9960.0]), (u'Cr8O32Sr16', [11460.0]), (u'Mn16Sn32', [22440.0])]), u'metallic': OrderedDict([(u'Mg64Cu32', [0.0]), (u'W8', [201.14]), (u'Ir8Hf8', [288.18]), (u'Nb8N8', [341.29]), (u'Os8Ti8', [412.47]), (u'Ru8Zr8', [479.05]), (u'Y8Ga16', [530.42]), (u'Re8Si16', [605.35]), (u'Zn16', [641.56]), (u'Ni16As16', [969.02]), (u'O16Pd16', [1041.06]), (u'S16Ta8', [1151.48]), (u'Sc8Rh24', [1390.62]), (u'Sc8Ag16', [2092.21]), (u'Ge24Pt48', [6120.0])])}
+Calculations PK
+
+Ge24Pt48 [<PwCalculation: uuid: 568bf44d-11d5-4738-b06c-c403c9d184ba (pk: 252438)>]
+Os8Ti8 [<PwCalculation: uuid: 47fe0396-a4f7-43d4-a316-2af2cf0d43e1 (pk: 252231)>]
+I16Mn8 [<PwCalculation: uuid: fe801e50-173d-4d03-a46f-87855baa0b1b (pk: 252428)>]
+Sb16Mn16 [<PwCalculation: uuid: 1375f74d-4103-477e-bd57-119f1e5fe0e0 (pk: 252498)>]
+Au32V8 [<PwCalculation: uuid: 08833d68-aa66-4964-a920-a573ede9a90e (pk: 252518)>]
+Mg64Cu32 [<PwCalculation: uuid: ce499ef6-661f-49e9-bfcb-94b291b6ad34 (pk: 252572)>]
+I16V8 [<PwCalculation: uuid: 39e549f3-dc4a-4710-bd14-efbcf12cb476 (pk: 252347)>]
+F24Ti8 [<PwCalculation: uuid: f89ffa3b-5768-4f75-ae9e-8bd4a77893d8 (pk: 252363)>]
+S16Ta8 [<PwCalculation: uuid: 18e9798c-cb39-4251-88b9-d8004154c59a (pk: 252352)>]
+Ca8O8 [<PwCalculation: uuid: 3f116448-240f-4a77-8b13-4a7fa3195dba (pk: 252208)>]
+Tl32Se32 [<PwCalculation: uuid: 9385f583-fead-4091-acd6-6d46e114fab5 (pk: 252327)>]
+I32Be16 [<PwCalculation: uuid: 9185dea4-627a-4be4-84ec-a2ae1e73d91e (pk: 252240)>]
+O16Pd16 [<PwCalculation: uuid: 1856956a-ec0c-4ff7-8b0a-8eca1b850676 (pk: 252371)>]
+B16Fe16 [<PwCalculation: uuid: 5021fea5-6e80-4965-949b-b494b2dbe985 (pk: 252515)>]
+Re8Si16 [<PwCalculation: uuid: 5e12ec0d-fe60-4fdb-8dc3-610c9162fc33 (pk: 252258)>]
+Mn16Sn32 [<PwCalculation: uuid: 100ecbb4-7459-4640-bce0-b8ae0521da9b (pk: 252559)>]
+Sc8Ag16 [<PwCalculation: uuid: fc13beba-bdc8-4baa-abc7-466aab9a17ce (pk: 252402)>]
+Cr8O16Na8 [<PwCalculation: uuid: 583c236c-0174-4699-848f-fd965d4ce5c1 (pk: 252483)>]
+Cr16F32 [<PwCalculation: uuid: a7001435-581b-4cf2-870b-e4a2073dd8ea (pk: 252424)>]
+Kr16 [<PwCalculation: uuid: 688499c4-d7b4-4e05-aa1e-3679e119eeb0 (pk: 252290)>]
+Y8Ga16 [<PwCalculation: uuid: eccac21d-1690-4d1b-9379-66361d630832 (pk: 252237)>]
+S16Mn16 [<PwCalculation: uuid: a8e9ec0d-52f7-4368-84a8-3975906c0c6e (pk: 252453)>]
+Mn16Bi16 [<PwCalculation: uuid: dab86069-8cae-4ce2-9977-6f910b44266f (pk: 252530)>]
+Co16F32 [<PwCalculation: uuid: c4185046-6398-4100-97c1-c8f1376d8cf5 (pk: 252412)>]
+Nb8N8 [<PwCalculation: uuid: 38c4d317-db6d-4bb8-8689-2d19bb1918e1 (pk: 252234)>]
+Pb16O16 [<PwCalculation: uuid: c6c34391-1160-4a4c-adc7-40884b2b4c0d (pk: 252330)>]
+Br16V8 [<PwCalculation: uuid: d940498f-c8fc-4806-b13c-833321b0983c (pk: 252321)>]
+Cr16Cl32 [<PwCalculation: uuid: 739680d0-e251-460e-a7d6-e4e9b1929170 (pk: 252407)>]
+F16Xe8 [<PwCalculation: uuid: 1ee47bd6-19bf-4919-94e9-c9846bca9062 (pk: 252480)>]
+Zn16 [<PwCalculation: uuid: 13e026c7-f14b-4ade-9c15-a84c66bd73f4 (pk: 252264)>]
+Cr8N8 [<PwCalculation: uuid: 6381914b-0ce4-44f6-9f24-a7a59f568415 (pk: 252282)>]
+Ru8Zr8 [<PwCalculation: uuid: 2412a4f4-fc56-4dda-9bff-7844b742cc52 (pk: 252184)>]
+Hg24O24 [<PwCalculation: uuid: 22c1a5dd-715c-4455-9116-d0306926e508 (pk: 252376)>]
+Cr8O16Li8 [<PwCalculation: uuid: 4455d63c-bb4b-406b-9114-764d6d532e61 (pk: 252467)>]
+Mn16F32 [<PwCalculation: uuid: d692302f-9806-41c4-8c3c-5fa181c69c1f (pk: 252463)>]
+Cr8Br16 [<PwCalculation: uuid: 838cb424-6446-44cd-af00-2386c3475808 (pk: 252324)>]
+O16Rb16 [<PwCalculation: uuid: caf467bb-14ad-472e-b1e0-6429f489d7aa (pk: 252211)>]
+Ir8Hf8 [<PwCalculation: uuid: d396e854-d67b-4036-8e8d-8e32e5bef7db (pk: 252253)>]
+Ar16 [<PwCalculation: uuid: 40447a4f-3e8e-40e5-a948-0ac910c3c986 (pk: 252366)>]
+Ne8 [<PwCalculation: uuid: 05244b91-0509-43e9-a6da-b413aa8eada2 (pk: 252420)>]
+Cr8O32Sr16 [<PwCalculation: uuid: 24061320-cc07-4114-9a6b-3e5b04b3a910 (pk: 252547)>]
+Mo16Cl80 [<PwCalculation: uuid: 4d46be01-219c-4c99-b188-bbe02f89e8c6 (pk: 252494)>]
+Cr8K8O16 [<PwCalculation: uuid: cd92701c-e7a6-4b1f-93a0-29a6c0cc3fdb (pk: 252533)>]
+Cs8H8 [<PwCalculation: uuid: f5a62980-fa93-4de3-a227-21ddc4663368 (pk: 252205)>]
+Te8Ba8 [<PwCalculation: uuid: fb2b14ea-a594-47ea-ba3f-908183170a9c (pk: 252261)>]
+Sc8Rh24 [<PwCalculation: uuid: ca62c5df-2abe-4ec3-86f7-c4292a7d5af3 (pk: 252286)>]
+F16Ti8 [<PwCalculation: uuid: 312ca34b-8904-48e1-909e-164d22a22791 (pk: 252360)>]
+Ni8 [<PwCalculation: uuid: 1696521a-3f53-4b75-a44f-c87623a7ffc2 (pk: 252357)>]
+C16O48Cd16 [<PwCalculation: uuid: 633134b2-2f5f-4874-bb71-4d7af076be8c (pk: 252470)>]
+Al8Fe8 [<PwCalculation: uuid: 982da2ec-982e-4bef-81ee-27abb7836654 (pk: 252379)>]
+Ni16As16 [<PwCalculation: uuid: 23e304c7-7522-4753-a66a-9bbf66e37176 (pk: 252315)>]
+P8In8 [<PwCalculation: uuid: 9a1d0260-65de-452a-8a07-3723aa2c8b53 (pk: 252187)>]
+W8 [<PwCalculation: uuid: aaea79ae-719a-4446-90c0-b68e86828f1d (pk: 252227)>]
+Number of iterations
+
+Ge24Pt48 [10]
+Os8Ti8 [10]
+I16Mn8 [10]
+Sb16Mn16 [10]
+Au32V8 [10]
+I16V8 [10]
+F24Ti8 [10]
+S16Ta8 [10]
+Ca8O8 [10]
+Tl32Se32 [10]
+I32Be16 [10]
+O16Pd16 [10]
+B16Fe16 [10]
+Re8Si16 [10]
+Mn16Sn32 [10]
+Sc8Ag16 [10]
+Cr8O16Na8 [10]
+Cr16F32 [10]
+Kr16 [10]
+Y8Ga16 [10]
+S16Mn16 [10]
+Mn16Bi16 [10]
+Co16F32 [10]
+Nb8N8 [10]
+Pb16O16 [10]
+Br16V8 [10]
+Cr16Cl32 [10]
+F16Xe8 [10]
+Zn16 [10]
+Cr8N8 [10]
+Ru8Zr8 [10]
+Hg24O24 [10]
+Cr8O16Li8 [10]
+Mn16F32 [10]
+Cr8Br16 [10]
+O16Rb16 [10]
+Ir8Hf8 [10]
+Ar16 [10]
+Ne8 [10]
+Cr8O32Sr16 [10]
+Mo16Cl80 [10]
+Cr8K8O16 [10]
+Cs8H8 [10]
+Te8Ba8 [10]
+Sc8Rh24 [10]
+F16Ti8 [10]
+Ni8 [10]
+C16O48Cd16 [10]
+Al8Fe8 [10]
+Ni16As16 [10]
+P8In8 [10]
+W8 [10]
+Struct # Ge24Pt48 [6120.0] [10] True True 1 1
+Struct # Os8Ti8 [412.47] [10] True True 1 1
+Struct # I16Mn8 [2573.04] [10] True True 1 1
+Struct # Sb16Mn16 [4620.0] [10] True True 1 1
+Struct # Au32V8 [9660.0] [10] True True 1 1
+Struct # Mg64Cu32 [0.0] [] True False 1 1
+Struct # I16V8 [595.16] [10] True True 1 1
+Struct # F24Ti8 [898.21] [10] True True 1 1
+Struct # S16Ta8 [1151.48] [10] True True 1 1
+Struct # Ca8O8 [359.53] [10] True True 1 1
+Struct # Tl32Se32 [2422.15] [10] True True 1 1
+Struct # I32Be16 [1939.18] [10] True True 1 1
+Struct # O16Pd16 [1041.06] [10] True True 1 1
+Struct # B16Fe16 [5580.0] [10] True True 1 1
+Struct # Re8Si16 [605.35] [10] True True 1 1
+Struct # Mn16Sn32 [22440.0] [10] True True 1 1
+Struct # Sc8Ag16 [2092.21] [10] True True 1 1
+Struct # Cr8O16Na8 [4080.0] [10] True True 1 1
+Struct # Cr16F32 [2170.16] [10] True True 1 1
+Struct # Kr16 [1419.4] [10] True True 1 1
+Struct # Y8Ga16 [530.42] [10] True True 1 1
+Struct # S16Mn16 [3660.0] [10] True True 1 1
+Struct # Mn16Bi16 [5460.0] [10] True True 1 1
+Struct # Co16F32 [1915.73] [10] True True 1 1
+Struct # Nb8N8 [341.29] [10] True True 1 1
+Struct # Pb16O16 [804.04] [10] True True 1 1
+Struct # Br16V8 [722.61] [10] True True 1 1
+Struct # Cr16Cl32 [2314.17] [10] True True 1 1
+Struct # F16Xe8 [3960.0] [10] True True 1 1
+Struct # Zn16 [641.56] [10] True True 1 1
+Struct # Cr8N8 [1500.82] [10] True True 1 1
+Struct # Ru8Zr8 [479.05] [10] True True 1 1
+Struct # Hg24O24 [1907.94] [10] True True 1 1
+Struct # Cr8O16Li8 [3169.05] [10] True True 1 1
+Struct # Mn16F32 [3840.0] [10] True True 1 1
+Struct # Cr8Br16 [743.79] [10] True True 1 1
+Struct # O16Rb16 [771.71] [10] True True 1 1
+Struct # Ir8Hf8 [288.18] [10] True True 1 1
+Struct # Ar16 [1468.19] [10] True True 1 1
+Struct # Ne8 [1891.42] [10] True True 1 1
+Struct # Cr8O32Sr16 [11460.0] [10] True True 1 1
+Struct # Mo16Cl80 [9960.0] [10] True True 1 1
+Struct # Cr8K8O16 [8880.0] [10] True True 1 1
+Struct # Cs8H8 [191.69] [10] True True 1 1
+Struct # Te8Ba8 [400.16] [10] True True 1 1
+Struct # Sc8Rh24 [1390.62] [10] True True 1 1
+Struct # F16Ti8 [808.49] [10] True True 1 1
+Struct # Ni8 [769.64] [10] True True 1 1
+Struct # C16O48Cd16 [5520.0] [10] True True 1 1
+Struct # Al8Fe8 [883.59] [10] True True 1 1
+Struct # Ni16As16 [969.02] [10] True True 1 1
+Struct # P8In8 [316.67] [10] True True 1 1
+Struct # W8 [201.14] [10] True True 1 1
+Calculations with the same number of iterations:
+
+Ge24Pt48 [[6120.0]]
+Os8Ti8 [[412.47]]
+Ne8 [[1891.42]]
+Zn16 [[641.56]]
+I16V8 [[595.16]]
+F24Ti8 [[898.21]]
+P8In8 [[316.67]]
+S16Ta8 [[1151.48]]
+Ca8O8 [[359.53]]
+Tl32Se32 [[2422.15]]
+I32Be16 [[1939.18]]
+O16Pd16 [[1041.06]]
+B16Fe16 [[5580.0]]
+Re8Si16 [[605.35]]
+Mn16Sn32 [[22440.0]]
+Sc8Ag16 [[2092.21]]
+Br16V8 [[722.61]]
+Cr16F32 [[2170.16]]
+Kr16 [[1419.4]]
+Y8Ga16 [[530.42]]
+S16Mn16 [[3660.0]]
+Mn16Bi16 [[5460.0]]
+Cr8O16Na8 [[4080.0]]
+Nb8N8 [[341.29]]
+Pb16O16 [[804.04]]
+Cr16Cl32 [[2314.17]]
+F16Xe8 [[3960.0]]
+Au32V8 [[9660.0]]
+Cr8N8 [[1500.82]]
+Ru8Zr8 [[479.05]]
+Hg24O24 [[1907.94]]
+W8 [[201.14]]
+I16Mn8 [[2573.04]]
+Mn16F32 [[3840.0]]
+Cr8O16Li8 [[3169.05]]
+O16Rb16 [[771.71]]
+Ir8Hf8 [[288.18]]
+Ar16 [[1468.19]]
+Co16F32 [[1915.73]]
+Sb16Mn16 [[4620.0]]
+Cr8O32Sr16 [[11460.0]]
+Mo16Cl80 [[9960.0]]
+Cr8K8O16 [[8880.0]]
+Cs8H8 [[191.69]]
+Te8Ba8 [[400.16]]
+F16Ti8 [[808.49]]
+Ni8 [[769.64]]
+C16O48Cd16 [[5520.0]]
+Al8Fe8 [[883.59]]
+Ni16As16 [[969.02]]
+Sc8Rh24 [[1390.62]]
+Cr8Br16 [[743.79]]
+Calculations with the different number of iterations:
+
+Mg64Cu32 [[0.0]]
+Traceback (most recent call last):
+  File "/usr/local/bin/verdi", line 11, in <module>
+    load_entry_point('aiida', 'console_scripts', 'verdi')()
+  File "/home/nvarini/aiida-core/aiida/cmdline/verdilib.py", line 1204, in run
+    aiida.cmdline.verdilib.exec_from_cmdline(sys.argv)
+  File "/home/nvarini/aiida-core/aiida/cmdline/verdilib.py", line 1190, in exec_from_cmdline
+    CommandClass.run(*argv[command_position + 1:])
+  File "/home/nvarini/aiida-core/aiida/cmdline/verdilib.py", line 1054, in run
+    exec (f, globals_dict)
+  File "/home/nvarini/aiida-core/aiida/workflows/user/hpc_workflow/postprocessing/parsing_times.py", line 236, in <module>
+    for j in dr_inter[sys_type]:
+NameError: name 'dr_inter' is not defined

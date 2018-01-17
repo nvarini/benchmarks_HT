@@ -1,0 +1,221 @@
+Calculations PK
+
+S4Mn4 [<PwCalculation: uuid: a7763b01-de9c-49da-b02d-bb140078c804 (pk: 241833)>, <PwCalculation: uuid: 73e97175-af49-47ea-bc77-37daa2e101e8 (pk: 240792)>, <PwCalculation: uuid: de459591-766b-4690-9e34-1c35e6e01884 (pk: 240073)>, <PwCalculation: uuid: 3b0a60b5-99fe-482c-a3ea-9d54075db284 (pk: 239850)>, <PwCalculation: uuid: e734a593-22dc-444f-ba7a-c7451ef9539e (pk: 240560)>]
+Cr2O4Li2 [<PwCalculation: uuid: a6f71d7e-e5b0-4ce4-9c21-ead7caa3b9e9 (pk: 241558)>, <PwCalculation: uuid: 9cfe0d1f-4222-4958-85f2-261f601f8da1 (pk: 241226)>, <PwCalculation: uuid: 6d3a2d3e-435c-4266-8f1f-8b42c61924cb (pk: 239974)>, <PwCalculation: uuid: 93b1ebff-1564-44a9-a6e8-93b5a5226c16 (pk: 240187)>, <PwCalculation: uuid: 8b2efa43-9c03-4625-996b-6b04b4273d11 (pk: 240574)>]
+Ca2O2 [<PwCalculation: uuid: 16462be0-e8ae-4b96-b633-f327c78facdf (pk: 241805)>, <PwCalculation: uuid: dbddcb42-8ec1-4b56-b71b-9eacb854adcd (pk: 240753)>, <PwCalculation: uuid: fde8066f-d6d5-4502-818d-7904c4612be3 (pk: 239473)>, <PwCalculation: uuid: ecc643b3-0725-48e3-b28b-ef724ecb3b04 (pk: 240001)>, <PwCalculation: uuid: f9b1298e-5022-4ab8-962f-80634823f132 (pk: 240241)>]
+Cr2O4Na2 [<PwCalculation: uuid: 066d5f60-7079-4800-9e54-dbf9351a880f (pk: 241449)>, <PwCalculation: uuid: d8d19449-2d8b-4fd2-9e78-a2351daddb53 (pk: 241168)>, <PwCalculation: uuid: d9ec1d01-63fe-43ca-8131-a2556b3ba8e5 (pk: 240034)>, <PwCalculation: uuid: 701dbd92-bf39-467b-b5a0-a0ba1a763022 (pk: 240172)>, <PwCalculation: uuid: a8449670-e6ea-4be5-ada2-dbed1e6b4171 (pk: 240649)>]
+Ni4As4 [<PwCalculation: uuid: 5657e2b5-0c96-4143-8b68-9da704d50467 (pk: 241650)>, <PwCalculation: uuid: 00fa3c80-2489-4631-94f4-42bb78742ef6 (pk: 241080)>, <PwCalculation: uuid: 1d9e62f2-804e-488d-b3b6-4625df262d8d (pk: 239599)>, <PwCalculation: uuid: 115bde6b-1764-4956-9a78-14a491a6f00a (pk: 239839)>, <PwCalculation: uuid: 2f672a83-11c0-4520-b1c1-f920f44e6d6c (pk: 240193)>]
+Al2Fe2 [<PwCalculation: uuid: ed6f22b3-1aee-44a2-8f46-3fa1687aa6ca (pk: 241668)>, <PwCalculation: uuid: cc03f9d9-4856-476a-8c0b-d7479002b12b (pk: 241017)>, <PwCalculation: uuid: 5930204c-f120-47d4-bbaa-f559db694940 (pk: 239479)>, <PwCalculation: uuid: 8c04b56b-9c94-4d89-9c83-98afafc7e621 (pk: 240181)>, <PwCalculation: uuid: e66ecdcb-b38b-45b6-a473-a6aa8fd816f8 (pk: 240520)>]
+O4Rb4 [<PwCalculation: uuid: fafb48e6-bb6e-4658-8b70-35a9ddbf56b8 (pk: 241656)>, <PwCalculation: uuid: 9d054838-f63c-47a0-b12b-87ef0e86231e (pk: 240798)>, <PwCalculation: uuid: 4d88cfb1-4f9f-4f5f-bded-f53bf34cde03 (pk: 239941)>, <PwCalculation: uuid: 62b3eea6-4341-41aa-9ce4-2e14256d8c70 (pk: 240055)>, <PwCalculation: uuid: 10359a60-0b73-4528-a518-de6494367902 (pk: 240244)>]
+Cr4F8 [<PwCalculation: uuid: f9028342-2f65-4409-9f6f-08786063edcf (pk: 241500)>, <PwCalculation: uuid: c6509b25-7e66-496d-aee1-67652d40768c (pk: 241299)>, <PwCalculation: uuid: 8d8778aa-c4b5-409b-a55d-42364427ee8d (pk: 239998)>, <PwCalculation: uuid: 0991aa13-6181-4af2-b6b8-0d77eab12bc3 (pk: 239801)>, <PwCalculation: uuid: b45b786b-63c9-4fbb-a379-d786ecc5051c (pk: 240394)>]
+Kr4 [<PwCalculation: uuid: 824ddf42-21e8-4d63-b49e-7d905b2a6183 (pk: 241561)>, <PwCalculation: uuid: 90b2132b-d83c-451b-90de-1b100cec3ade (pk: 240844)>, <PwCalculation: uuid: cdbc8b83-9a17-41a2-b865-22b8ad7b4b81 (pk: 239446)>, <PwCalculation: uuid: 461c4e1a-3dfe-465c-9806-cdad983d58f6 (pk: 240046)>, <PwCalculation: uuid: 878e29af-076d-438d-80c3-1288cdc6e428 (pk: 240285)>]
+Zn4 [<PwCalculation: uuid: 18d8a194-e70d-4cdd-9553-0a1ce115e4fc (pk: 241477)>, <PwCalculation: uuid: 4959d679-9252-41e5-b8f2-b5f24a5b75b0 (pk: 241014)>, <PwCalculation: uuid: 69aa03cd-1430-4dcf-ae82-57a9fe84c862 (pk: 239614)>, <PwCalculation: uuid: 926b619f-a299-4318-be79-dc5b9caf1c10 (pk: 240169)>, <PwCalculation: uuid: c43edeea-df19-4265-9c2b-f58dca00f070 (pk: 240196)>]
+I8Be4 [<PwCalculation: uuid: b01f51df-7b06-437a-bf18-8ee63db816ad (pk: 241689)>, <PwCalculation: uuid: 1f350305-fdad-4ca4-815d-6a9143d77da0 (pk: 240850)>, <PwCalculation: uuid: 8f4aabc1-afef-4478-9880-6d04cb76bb73 (pk: 239590)>, <PwCalculation: uuid: a5cacbfd-5ca9-4433-9765-4ab124f865bc (pk: 239986)>, <PwCalculation: uuid: 957142d7-71e7-415b-bb93-5c0b4fa772a7 (pk: 240229)>]
+Y2Ga4 [<PwCalculation: uuid: 055277fc-c6b8-4484-9d1b-01cb125d2e32 (pk: 241786)>, <PwCalculation: uuid: d8564002-2123-4ebc-979b-1f25e6420eae (pk: 241271)>, <PwCalculation: uuid: 8bd63a3b-17f4-4b30-aef6-95a8c5e38e2f (pk: 239524)>, <PwCalculation: uuid: f7865490-7261-498d-bfe1-fb401c478b7f (pk: 239959)>, <PwCalculation: uuid: 305caa58-318c-4b22-86ba-8a614706c053 (pk: 240215)>]
+S4Ta2 [<PwCalculation: uuid: 7f32e4a9-05a1-46d6-aabf-1069e7c5ee56 (pk: 241794)>, <PwCalculation: uuid: b537aabe-6556-47aa-9b13-6e412a8dc974 (pk: 241074)>, <PwCalculation: uuid: 27e4a12b-0156-4aec-9e11-65021135a078 (pk: 239587)>, <PwCalculation: uuid: f5ad4904-025b-4ecf-9ee2-fc6f10138a14 (pk: 239950)>, <PwCalculation: uuid: f410f45a-ca59-48b5-863e-42731e572536 (pk: 240453)>]
+Ge6Pt12 [<PwCalculation: uuid: 899509f3-e4e9-4762-8c2b-90f463e2c547 (pk: 241725)>, <PwCalculation: uuid: 2ce6c906-ae39-4578-ab5d-7b71cfd8a5c4 (pk: 240952)>, <PwCalculation: uuid: 92a2344b-7a2b-4b6a-8ed0-8b0aba6ef08b (pk: 239527)>, <PwCalculation: uuid: 69458cb4-291d-43b3-a299-3882d3a92515 (pk: 239989)>, <PwCalculation: uuid: 33b69ffc-32c3-4dc2-bd3a-bf11f3d0d24a (pk: 240523)>]
+Mn4Sn8 [<PwCalculation: uuid: 084ee1fe-0b33-4e35-901a-853bc280a6c8 (pk: 241863)>, <PwCalculation: uuid: 008330a6-b964-4988-9979-10cdca739e1c (pk: 241109)>, <PwCalculation: uuid: b2a8946f-e220-4660-8943-b68b813bce68 (pk: 240076)>, <PwCalculation: uuid: 4d8e2fb8-242b-4ede-bd97-d2da6a876c16 (pk: 239944)>, <PwCalculation: uuid: 8ef0d421-8588-4c2b-9824-07545c5ca08f (pk: 240913)>]
+Cs2H2 [<PwCalculation: uuid: ba8a8972-0ac3-4be0-a684-ad68ebfac5f9 (pk: 241742)>, <PwCalculation: uuid: c4f41427-2458-4bd7-89ad-3e92e5e133fb (pk: 240898)>, <PwCalculation: uuid: 0e6c4c43-a324-4d30-a234-8cbbd4ac82dc (pk: 239476)>, <PwCalculation: uuid: 38e19fc0-5acd-4eef-b18c-9c681f423a27 (pk: 240007)>, <PwCalculation: uuid: b8e68c0c-6588-4502-aed7-380122eb73c1 (pk: 240088)>]
+Ar4 [<PwCalculation: uuid: 22a1caae-c677-4439-8a1e-dd5528dd14a2 (pk: 241685)>, <PwCalculation: uuid: c5a6e996-4803-4659-a349-62ff7f6fd908 (pk: 240904)>, <PwCalculation: uuid: e7d4df85-83b2-40da-880c-727fb3577b20 (pk: 239485)>, <PwCalculation: uuid: 2812509d-a550-43ad-8a94-7ce942832ef8 (pk: 239977)>, <PwCalculation: uuid: 950a0cad-f434-4e48-8c69-4c64e2e8cb47 (pk: 240345)>]
+Nb2N2 [<PwCalculation: uuid: 5932cead-f75f-4288-b261-3563b07b2809 (pk: 241570)>, <PwCalculation: uuid: 399164ba-5702-4910-b5d8-16908872d8a7 (pk: 240761)>, <PwCalculation: uuid: 912c6389-6e1d-4f8d-b464-6f48e6225976 (pk: 239605)>, <PwCalculation: uuid: 02c3bf6d-dd5b-49a5-b3bf-3c0dc7553306 (pk: 239968)>, <PwCalculation: uuid: 7ccb54a5-5ab6-45da-a282-87e81cb423ca (pk: 240247)>]
+Mn4F8 [<PwCalculation: uuid: c91d809f-f2c8-4d1a-87ea-bc9b5421eb72 (pk: 241591)>, <PwCalculation: uuid: f0c890e2-e5dc-44a9-a0f0-5a75d528b848 (pk: 241268)>, <PwCalculation: uuid: a16d5d17-d967-4c7e-ad47-85eb3addbd38 (pk: 240064)>, <PwCalculation: uuid: df5033f6-5116-4dec-b79f-db7ae124084f (pk: 239886)>, <PwCalculation: uuid: 504e5fd3-1e97-4829-b924-b85a1df447f9 (pk: 240517)>]
+Pb4O4 [<PwCalculation: uuid: bc14a627-8dae-46b6-a8e4-e94d3e30557c (pk: 241503)>, <PwCalculation: uuid: 655bf91c-d4c4-400c-8783-a5cd39ae6e93 (pk: 240907)>, <PwCalculation: uuid: a1247798-dfdd-4370-878d-fac74b22d1d0 (pk: 239488)>, <PwCalculation: uuid: cf17170c-8a0a-4369-be74-93d3cb6373df (pk: 239995)>, <PwCalculation: uuid: b40e2d5c-50ef-4447-8f69-d7d456866327 (pk: 240250)>]
+Ru2Zr2 [<PwCalculation: uuid: 4ba87cc0-9118-4d17-8143-2cac8bcae2ee (pk: 241718)>, <PwCalculation: uuid: 8e2fcd63-eba3-4b3e-858a-7719301d1cba (pk: 240910)>, <PwCalculation: uuid: 7ab15721-6409-408f-9e51-1e6ac771fc58 (pk: 239440)>, <PwCalculation: uuid: 99bf0bb1-6446-48d3-be87-130762bfc102 (pk: 240014)>, <PwCalculation: uuid: a7b4c147-5fc8-482f-852a-f7073b07b1da (pk: 240253)>]
+W2 [<PwCalculation: uuid: a7433f45-b32a-41b4-a9b9-69ca51726a87 (pk: 241440)>, <PwCalculation: uuid: 4c722ceb-ce99-45a1-b161-190b2f4ef789 (pk: 241137)>, <PwCalculation: uuid: f88b4538-0fee-498b-b579-03ec1a1c827b (pk: 240049)>, <PwCalculation: uuid: 15bbe890-5677-4291-80e3-72f17db54b38 (pk: 240178)>, <PwCalculation: uuid: 0ce79db2-4410-457c-b9fb-237456ba2c37 (pk: 240211)>]
+Os2Ti2 [<PwCalculation: uuid: d668b798-6ed7-4808-94d6-b23f278df47f (pk: 241752)>, <PwCalculation: uuid: ecc0042f-2777-49ad-b2f7-27716f24bf6b (pk: 241077)>, <PwCalculation: uuid: 9a7aaba6-3650-4241-b72c-50f0af879d99 (pk: 239596)>, <PwCalculation: uuid: 6df1ea93-8846-49b5-83ea-2ca0f06766ca (pk: 239953)>, <PwCalculation: uuid: 5b87a144-ba1c-4156-ad7c-46ecc417e00c (pk: 240238)>]
+I4Mn2 [<PwCalculation: uuid: c11e213e-fd07-4ba6-92e8-8e67487303c5 (pk: 241619)>, <PwCalculation: uuid: 80ac38bf-00b0-42c6-acab-53c4a37b2ba6 (pk: 241259)>, <PwCalculation: uuid: 3e08c682-8980-46ae-835b-890ba114fb36 (pk: 240067)>, <PwCalculation: uuid: 9cc7297b-e320-493c-8061-839b5f5da588 (pk: 239874)>, <PwCalculation: uuid: 7b6034d7-e28b-4367-8f01-89eda575d6ca (pk: 240514)>]
+Te2Ba2 [<PwCalculation: uuid: 433537ed-b413-4d42-9e25-b7f4005e1925 (pk: 241860)>, <PwCalculation: uuid: 9e6ebfac-b71f-4f7e-8e1e-b8521db29b8a (pk: 240901)>, <PwCalculation: uuid: 14e9ae11-b4c1-4c7e-b5e0-e19e996422ca (pk: 239482)>, <PwCalculation: uuid: 49a9c39d-6484-4c5c-bbe3-2d2b4e95f242 (pk: 239921)>, <PwCalculation: uuid: 82217dba-048a-4694-ad00-4ffe1e663096 (pk: 240223)>]
+Cr2K2O4 [<PwCalculation: uuid: 1a6e155c-c0c2-4ee0-b4e3-ce0d29920bf1 (pk: 241525)>, <PwCalculation: uuid: 6b6e2912-f9dc-444c-a894-affdf53c844d (pk: 241238)>, <PwCalculation: uuid: bd9097af-af20-4534-a698-289c92ea0717 (pk: 239983)>, <PwCalculation: uuid: ac8e4d1a-94b2-46da-8a55-03f0f7c95593 (pk: 240184)>, <PwCalculation: uuid: 975cfe73-33b1-4645-b97f-e3114596d3d3 (pk: 240856)>]
+Sc2Rh6 [<PwCalculation: uuid: e86509b9-7010-40ca-b21f-dabbe58b3183 (pk: 241830)>, <PwCalculation: uuid: c7e18f9b-0fd8-448a-bed2-a444fdedb349 (pk: 240841)>, <PwCalculation: uuid: 18b537cc-c18f-4898-94e9-f38140447ca0 (pk: 239443)>, <PwCalculation: uuid: 23eb5334-6d2d-468b-b502-b94bc33e485c (pk: 240040)>, <PwCalculation: uuid: a46594ef-534f-43ce-b7a4-4868202c7ff2 (pk: 240299)>]
+Au8V2 [<PwCalculation: uuid: da9e47d8-8cf9-4d0e-9cd8-6abb55705184 (pk: 241808)>, <PwCalculation: uuid: 4f576661-60be-48f6-a29c-6a2c415178b3 (pk: 241302)>, <PwCalculation: uuid: 2c8cceb7-286a-448e-a3aa-abf9b5eb8619 (pk: 240079)>, <PwCalculation: uuid: 2725971f-7c0a-44b7-ac43-4bd7e71e56e3 (pk: 239830)>, <PwCalculation: uuid: 007c3ba6-d0ba-4d85-9a37-19c75b17ca27 (pk: 240767)>]
+Co4F8 [<PwCalculation: uuid: 1f781d59-bf93-48b2-b27a-f16b8cb3c24e (pk: 241715)>, <PwCalculation: uuid: 1febdc0c-2e2f-4bb9-80bf-b635fb606903 (pk: 240847)>, <PwCalculation: uuid: 93ebc777-907b-4829-8f7e-897390f1e70d (pk: 239449)>, <PwCalculation: uuid: fdcfc10a-0745-483f-ab30-7e4835f9f3dd (pk: 239806)>, <PwCalculation: uuid: baf6acf4-7bbc-4bd4-a600-be1d64e0adc7 (pk: 240336)>]
+Cr2Br4 [<PwCalculation: uuid: 3d120666-a034-4792-b8e7-e35103361d58 (pk: 241564)>, <PwCalculation: uuid: d6f9bfa5-602a-4a67-9943-8a0e053d6dd7 (pk: 241165)>, <PwCalculation: uuid: 0f53a396-2b23-4ec9-9fa5-6904e9a880c8 (pk: 239962)>, <PwCalculation: uuid: 784daa20-697b-471e-84ed-2b43e9798fa5 (pk: 239899)>, <PwCalculation: uuid: 86c4c785-9d42-4a89-8c6c-4fa41bff0e73 (pk: 240292)>]
+Re2Si4 [<PwCalculation: uuid: fc6531e7-0198-4337-b541-80cb6106df8e (pk: 241434)>, <PwCalculation: uuid: 04709157-faa7-48da-9c0a-694e6217427e (pk: 241143)>, <PwCalculation: uuid: 3614275d-e46c-4fcf-8187-b6d3dc1f96c8 (pk: 239578)>, <PwCalculation: uuid: ce12e929-9962-43ac-88b9-d12c1e5fdf59 (pk: 239822)>, <PwCalculation: uuid: b576154e-6970-4b1e-9740-cf1221e86553 (pk: 240331)>]
+B4Fe4 [<PwCalculation: uuid: fe6fee93-b608-4503-924a-3c193b1b32e2 (pk: 241622)>, <PwCalculation: uuid: 8d1ccfe9-58e7-4c04-abf6-d092568189fb (pk: 241083)>, <PwCalculation: uuid: 4a563962-798e-48e8-adbf-05a57245fc70 (pk: 240085)>, <PwCalculation: uuid: 94f61300-21f4-4cf7-95fd-8dc7b9410cc8 (pk: 239965)>, <PwCalculation: uuid: 976fb3d2-9d8c-4144-ad64-01bdbffdfced (pk: 240600)>]
+Sc2Ag4 [<PwCalculation: uuid: 61f3782a-0945-4bb3-b2d0-40e16da4c103 (pk: 241653)>, <PwCalculation: uuid: d79642ab-bde0-4e79-89eb-8f712363266f (pk: 241220)>, <PwCalculation: uuid: d1b2f691-c35e-4fe7-a9d4-cf3f97e565e8 (pk: 240058)>, <PwCalculation: uuid: d484cdb9-549c-438d-bb95-d05cb14e53c5 (pk: 240175)>, <PwCalculation: uuid: cbf3e608-6da5-484d-9667-eec1d351b0f5 (pk: 240474)>]
+Ne2 [<PwCalculation: uuid: 10364b4f-c78a-4e72-ba67-9f09fd0cf6b6 (pk: 241739)>, <PwCalculation: uuid: 3ba2663b-7157-43d3-bd4c-cd5a33969a10 (pk: 241023)>, <PwCalculation: uuid: 4904eb68-e55b-45c0-bb79-a7e5ff217c1c (pk: 239617)>, <PwCalculation: uuid: 61f0bfab-79e7-4ced-9c78-65f91e9608b0 (pk: 239980)>, <PwCalculation: uuid: 67e2b33f-7532-4c4b-8f67-29113be5187a (pk: 240388)>]
+Cr2N2 [<PwCalculation: uuid: ec612a0f-46e0-4788-8d76-495e1230e9bc (pk: 241789)>, <PwCalculation: uuid: 750a0786-2c84-484e-b58f-a790bc937b47 (pk: 241134)>, <PwCalculation: uuid: e3f3d097-3248-42f8-a0c9-cbdca624f963 (pk: 239581)>, <PwCalculation: uuid: b429fe79-03b5-4eb2-8152-2b09e03bcfc6 (pk: 239896)>, <PwCalculation: uuid: 0169bb30-cad5-4f18-af28-a7d1072e5b80 (pk: 240456)>]
+Cr2O8Sr4 [<PwCalculation: uuid: 05a3ac56-1c49-4c27-90d5-b64d8ecee0c1 (pk: 241706)>, <PwCalculation: uuid: 9837341b-a805-445e-922d-e36cc7e88575 (pk: 240995)>, <PwCalculation: uuid: 3f14adf0-c4f2-4e80-9bd0-47b89ca067ca (pk: 239501)>, <PwCalculation: uuid: a297b2f9-d498-48d7-b858-a94eb8660c29 (pk: 240022)>, <PwCalculation: uuid: 6d47ad20-f51d-4778-86ae-fe497054b3de (pk: 240719)>]
+Cr4Cl8 [<PwCalculation: uuid: ea5e4cc3-5ca6-437d-a605-a6abe1fd33e4 (pk: 241842)>, <PwCalculation: uuid: 7a88ca73-f082-4f22-814c-a3a87c745284 (pk: 241232)>, <PwCalculation: uuid: 43cd24ab-0d61-4aae-9d63-b0cc63f6d4c1 (pk: 240070)>, <PwCalculation: uuid: 14cafcc0-1346-46d5-81bc-1befb24f45d9 (pk: 239845)>, <PwCalculation: uuid: d3603f4c-ca6c-40a4-91b2-d2bf4ce823c5 (pk: 240340)>]
+F4Xe2 [<PwCalculation: uuid: 8c038e89-821e-45c1-bae0-243a955ee074 (pk: 241480)>, <PwCalculation: uuid: 263d2d0b-5fc6-4ae3-85c0-cd321441e401 (pk: 241229)>, <PwCalculation: uuid: 1be6d5d6-9bda-4b00-9b9d-06385ecb5cab (pk: 239608)>, <PwCalculation: uuid: 7653749e-5368-4938-9b40-5e43835bc3be (pk: 239794)>, <PwCalculation: uuid: 1aea1abc-daa1-42a6-b88d-e0c64d4d5dee (pk: 240540)>]
+C4O12Cd4 [<PwCalculation: uuid: b0c25915-5efe-4f56-8765-58b26f33c29f (pk: 241818)>, <PwCalculation: uuid: c300855f-9b29-474d-8a68-8de12edd18bb (pk: 240991)>, <PwCalculation: uuid: 582eb7c0-c5a9-435a-8f24-c1e881cc392f (pk: 239611)>, <PwCalculation: uuid: 09635c3e-7a5a-4dbc-b70e-23d854fa3b64 (pk: 240004)>, <PwCalculation: uuid: 6e4869ea-3754-438d-87ff-e5656c8c0157 (pk: 240477)>]
+Ir2Hf2 [<PwCalculation: uuid: 4c7be2a4-d295-4278-9fae-7b6e770a49e4 (pk: 241588)>, <PwCalculation: uuid: 4406e402-22e9-4853-bfe6-fd3abcdf649b (pk: 241265)>, <PwCalculation: uuid: 96194223-c99d-4df8-a446-fc7864a984a9 (pk: 239593)>, <PwCalculation: uuid: f459e020-8979-4d65-b69e-17e13d39fdf6 (pk: 239914)>, <PwCalculation: uuid: 019cd96b-babe-4e8b-873c-5c1f77cc456d (pk: 240199)>]
+I4V2 [<PwCalculation: uuid: 321c12ec-c8e7-4b45-8d27-80f8e94c3000 (pk: 241460)>, <PwCalculation: uuid: 828d5a76-da40-42ba-85c0-43f134e60397 (pk: 241223)>, <PwCalculation: uuid: f4b27491-2947-4c10-9271-ad5598056ff2 (pk: 240010)>, <PwCalculation: uuid: 4a74c243-249e-4159-ab21-225a145dc488 (pk: 239815)>, <PwCalculation: uuid: b139113b-96e2-4dc0-9dc9-165933ff6ff4 (pk: 240202)>]
+Mg16Cu8 [<PwCalculation: uuid: 00a533a8-2fbb-4f12-8670-e39e0750132b (pk: 241774)>, <PwCalculation: uuid: f208aad1-0ea6-462a-8abc-8b756c1ecdde (pk: 241040)>, <PwCalculation: uuid: 49720171-28f0-4bec-9405-a8d5ab457f0f (pk: 239620)>, <PwCalculation: uuid: 5b927031-047a-4a57-99f8-fdf658c328da (pk: 239908)>, <PwCalculation: uuid: f4967508-9b3a-4829-897a-fe98e4a1759f (pk: 241043)>]
+O4Pd4 [<PwCalculation: uuid: 01eb0fd1-03fe-45b3-bfc4-cf6aa8345f91 (pk: 241771)>, <PwCalculation: uuid: 980581be-cfcc-4565-8815-0ddf8941c4be (pk: 241235)>, <PwCalculation: uuid: 852dbd51-046d-495d-99ca-a303275cf4a9 (pk: 239584)>, <PwCalculation: uuid: f9020866-e37a-4483-b84e-49d8519e7a31 (pk: 239902)>, <PwCalculation: uuid: f08ca45b-5127-470a-8a0d-ea840dd7b772 (pk: 240235)>]
+Br4V2 [<PwCalculation: uuid: 32dacc24-19ab-437a-8e79-907c4d6910ce (pk: 241584)>, <PwCalculation: uuid: 7a47dc8b-287d-4a33-8d6e-13ea1b690e66 (pk: 241262)>, <PwCalculation: uuid: 1c37f9dd-451a-4fb8-8ef1-04d07ac06418 (pk: 239947)>, <PwCalculation: uuid: 9b4cb8dc-18cc-440b-b2ee-180b93d02a60 (pk: 239866)>, <PwCalculation: uuid: 1fb12bb5-ae25-4422-ad0c-b967d4d0fae7 (pk: 240288)>]
+F4Ti2 [<PwCalculation: uuid: 1fade69d-ecf1-47ee-98c9-bfc066190e0d (pk: 241616)>, <PwCalculation: uuid: 8f1aecda-0c6a-4138-afbe-37c35c05926c (pk: 240740)>, <PwCalculation: uuid: 6ed08552-1774-4fdf-9f9e-bef1107c9e16 (pk: 239971)>, <PwCalculation: uuid: 079c390b-4861-41d8-acab-f514452dc29f (pk: 239857)>, <PwCalculation: uuid: 542c442f-de89-4ec2-bee8-b421525db452 (pk: 240385)>]
+Tl8Se8 [<PwCalculation: uuid: cf0f4316-9643-4de7-85a1-af0a808fb6c4 (pk: 241537)>, <PwCalculation: uuid: 06baf64e-8bd0-4b8f-882c-c7e6c82060e2 (pk: 241020)>, <PwCalculation: uuid: db6b13a8-fa8a-49e9-a2ac-eb36e0ae8196 (pk: 239521)>, <PwCalculation: uuid: 4443cb2a-c5f3-42b5-9747-f6b353451807 (pk: 239938)>, <PwCalculation: uuid: 1406cb82-a120-4e0e-9e33-cb321921da1a (pk: 240205)>]
+F6Ti2 [<PwCalculation: uuid: 68d1f4ad-6b0d-470b-9800-bab07bcb4fdf (pk: 241464)>, <PwCalculation: uuid: c2def55b-7580-4e81-8b3a-d24794a9e7b5 (pk: 241140)>, <PwCalculation: uuid: 50cf3c38-5e78-4b58-b3d3-bb909aa14149 (pk: 239992)>, <PwCalculation: uuid: 0a0ded5a-778d-4831-bf9a-b6d936ddc8b6 (pk: 239929)>, <PwCalculation: uuid: 8893a4bc-c90a-43aa-9930-29d8e16d177f (pk: 240295)>]
+Mn4Bi4 [<PwCalculation: uuid: 603ae592-075c-450b-b69d-2e9afcccb80f (pk: 241628)>, <PwCalculation: uuid: d8854d3a-c892-4191-adde-af4313c4b98f (pk: 241274)>, <PwCalculation: uuid: e0be2ad7-b30c-4a90-9c20-335f16ac47fd (pk: 240082)>, <PwCalculation: uuid: a8716bdc-6cf2-4233-8196-7ec6bea44198 (pk: 239905)>, <PwCalculation: uuid: 6a6b2d4e-cb89-4bc2-9948-9e2c4d6efb10 (pk: 240568)>]
+Ni2 [<PwCalculation: uuid: c9d50ae2-2ac7-49c7-8e95-b8445299a2f2 (pk: 241534)>, <PwCalculation: uuid: ceec5c93-dc33-4d99-8a41-9bafd6fbbe91 (pk: 241131)>, <PwCalculation: uuid: 39536f43-7de8-4a51-8699-9d2460772968 (pk: 239956)>, <PwCalculation: uuid: 7c6dd43c-4a7b-4ddb-bc1f-7ca55bdaa5b7 (pk: 240190)>, <PwCalculation: uuid: 446c5df8-e138-40fa-9e6e-f4eb4212d69c (pk: 240552)>]
+Hg6O6 [<PwCalculation: uuid: a10684dd-76d6-410a-b90f-630e7ef2741d (pk: 241671)>, <PwCalculation: uuid: 94bd3fb5-85e2-461d-9af1-a143567c8402 (pk: 240795)>, <PwCalculation: uuid: 7b01770f-2828-423b-ae2b-f4ec7ab0074e (pk: 240043)>, <PwCalculation: uuid: 2e5ed25b-4baa-420d-bb8e-a35b93c693b9 (pk: 240037)>, <PwCalculation: uuid: 113bb3ea-385d-4ec7-9d84-bde6cef9c561 (pk: 240232)>]
+Mo4Cl20 [<PwCalculation: uuid: 3750fe73-a313-4627-a197-1bddf6e58329 (pk: 241443)>, <PwCalculation: uuid: 293bc8e9-122f-497b-aa75-03dbcb773848 (pk: 241296)>, <PwCalculation: uuid: 33045343-92f0-44d5-aa9d-bb6a90f9b889 (pk: 240061)>, <PwCalculation: uuid: 3ea0ad83-bfc5-49b3-a17d-932eafbbd3bf (pk: 239809)>, <PwCalculation: uuid: 4e161685-e6c6-4574-9d59-66d888595aa7 (pk: 240494)>]
+Sb4Mn4 [<PwCalculation: uuid: 45841acf-0f87-4061-b1a6-756d8fc30fab (pk: 241674)>, <PwCalculation: uuid: d574b670-cba4-4cbe-9f0b-d083207fb4a6 (pk: 240853)>, <PwCalculation: uuid: ede967a3-d422-40f9-b82b-263d01cb79aa (pk: 239602)>, <PwCalculation: uuid: 16261fe7-94d6-4096-aa01-ce5489d39f32 (pk: 240052)>, <PwCalculation: uuid: d8f21fec-f512-4dc9-82cb-4993e1b8de1e (pk: 240543)>]
+P2In2 [<PwCalculation: uuid: 963681db-c5bb-4b4c-9e93-2ec4666cffb7 (pk: 241755)>, <PwCalculation: uuid: c8057417-8854-4d22-94ee-597d07cd529a (pk: 240838)>, <PwCalculation: uuid: 88369904-de20-442f-93bd-d28b88e0b0b7 (pk: 239491)>, <PwCalculation: uuid: fdd8fda2-128b-4e24-a10f-c346df78ab11 (pk: 240025)>, <PwCalculation: uuid: 5d6a81a1-a7f0-4faa-a48f-efcd4a167fb7 (pk: 240256)>]
+Number of iterations
+
+S4Mn4 [10, 10, 10, 10, 10]
+Cr2O4Li2 [10, 10, 10, 10, 10]
+Ca2O2 [10, 10, 10, 10, 10]
+Cr2O4Na2 [10, 10, 10, 10, 10]
+Ni4As4 [10, 10, 10, 10, 10]
+Al2Fe2 [10, 10, 10, 10, 10]
+O4Rb4 [10, 10, 10, 10, 10]
+Cr4F8 [10, 10, 10, 10, 10]
+Kr4 [10, 10, 10, 10, 10]
+Zn4 [10, 10, 0, 10, 10]
+I8Be4 [10, 10, 10, 10, 10]
+Y2Ga4 [10, 10, 10, 10, 10]
+S4Ta2 [10, 10, 10, 10, 10]
+Ge6Pt12 [10, 10, 10, 10, 10]
+Mn4Sn8 [10, 10, 10, 10, 10]
+Cs2H2 [10, 10, 10, 10, 10]
+Ar4 [10, 10, 10, 10, 10]
+Nb2N2 [10, 10, 10, 10, 10]
+Mn4F8 [10, 10, 10, 10, 10]
+Pb4O4 [10, 10, 10, 10, 10]
+Ru2Zr2 [10, 10, 10, 10, 10]
+W2 [10, 10, 10, 10, 10]
+Os2Ti2 [10, 10, 10, 10, 10]
+I4Mn2 [10, 10, 10, 10, 10]
+Te2Ba2 [10, 10, 10, 10, 10]
+Cr2K2O4 [10, 10, 10, 10, 10]
+Sc2Rh6 [10, 10, 10, 10, 10]
+Au8V2 [10, 10, 10, 10, 10]
+Co4F8 [10, 10, 10, 10, 10]
+Cr2Br4 [10, 10, 10, 10, 10]
+Re2Si4 [10, 10, 10, 10, 10]
+B4Fe4 [10, 10, 10, 10, 10]
+Sc2Ag4 [10, 10, 10, 10, 10]
+Ne2 [10, 10, 10, 10, 10]
+Cr2N2 [10, 10, 10, 10, 10]
+Cr2O8Sr4 [10, 10, 10, 10, 10]
+Cr4Cl8 [10, 10, 10, 10, 10]
+F4Xe2 [10, 10, 10, 10, 10]
+C4O12Cd4 [10, 10, 10, 10, 10]
+Ir2Hf2 [10, 10, 10, 10, 10]
+I4V2 [10, 10, 10, 10, 10]
+Mg16Cu8 [10, 10, 10, 10, 10]
+O4Pd4 [10, 10, 10, 10, 10]
+Br4V2 [10, 10, 10, 10, 10]
+F4Ti2 [10, 10, 10, 10, 10]
+Tl8Se8 [10, 10, 10, 10, 10]
+F6Ti2 [10, 10, 10, 10, 10]
+Mn4Bi4 [10, 10, 10, 10, 10]
+Ni2 [10, 10, 10, 10, 10]
+Hg6O6 [10, 10, 10, 10, 10]
+Mo4Cl20 [10, 10, 10, 10, 10]
+Sb4Mn4 [10, 10, 10, 10, 10]
+P2In2 [10, 10, 10, 10, 10]
+Struct # S4Mn4 [596.79, 537.98, 294.47, 632.66, 546.66] [10, 10, 10, 10, 10] True True 5 5
+Struct # Cr2O4Li2 [695.16, 645.21, 450.96, 1565.39, 623.63] [10, 10, 10, 10, 10] True True 5 5
+Struct # Ca2O2 [82.38, 79.05, 62.18, 414.03, 185.78] [10, 10, 10, 10, 10] True True 5 5
+Struct # Cr2O4Na2 [793.7, 707.82, 499.86, 1630.07, 782.7] [10, 10, 10, 10, 10] True True 5 5
+Struct # Ni4As4 [160.56, 150.39, 97.56, 365.0, 178.44] [10, 10, 10, 10, 10] True True 5 5
+Struct # Al2Fe2 [227.15, 217.19, 154.07, 678.77, 410.14] [10, 10, 10, 10, 10] True True 5 5
+Struct # O4Rb4 [137.74, 132.14, 77.57, 217.22, 154.97] [10, 10, 10, 10, 10] True True 5 5
+Struct # Cr4F8 [386.61, 360.71, 224.08, 665.51, 300.69] [10, 10, 10, 10, 10] True True 5 5
+Struct # Kr4 [182.92, 162.66, 89.92, 132.92, 246.18] [10, 10, 10, 10, 10] True True 5 5
+Struct # Zn4 [155.89, 143.3, 0.0, 583.23, 175.65] [10, 10, 0, 10, 10] False False 5 5
+Struct # I8Be4 [148.84, 136.83, 79.81, 157.79, 143.06] [10, 10, 10, 10, 10] True True 5 5
+Struct # Y2Ga4 [94.48, 88.69, 67.79, 277.28, 126.12] [10, 10, 10, 10, 10] True True 5 5
+Struct # S4Ta2 [215.97, 205.54, 142.1, 663.43, 332.16] [10, 10, 10, 10, 10] True True 5 5
+Struct # Ge6Pt12 [661.22, 567.29, 286.17, 590.98, 427.5] [10, 10, 10, 10, 10] True True 5 5
+Struct # Mn4Sn8 [1728.17, 1582.05, 849.92, 1148.81, 979.3] [10, 10, 10, 10, 10] True True 5 5
+Struct # Cs2H2 [53.53, 53.29, 37.18, 141.12, 121.82] [10, 10, 10, 10, 10] True True 5 5
+Struct # Ar4 [213.29, 187.69, 108.44, 174.84, 282.38] [10, 10, 10, 10, 10] True True 5 5
+Struct # Nb2N2 [90.34, 88.52, 68.48, 489.59, 196.1] [10, 10, 10, 10, 10] True True 5 5
+Struct # Mn4F8 [538.97, 492.57, 293.79, 640.87, 408.37] [10, 10, 10, 10, 10] True True 5 5
+Struct # Pb4O4 [107.27, 99.68, 63.63, 202.34, 142.36] [10, 10, 10, 10, 10] True True 5 5
+Struct # Ru2Zr2 [89.87, 80.77, 60.89, 404.24, 146.54] [10, 10, 10, 10, 10] True True 5 5
+Struct # W2 [76.09, 76.6, 65.54, 582.61, 174.33] [10, 10, 10, 10, 10] True True 5 5
+Struct # Os2Ti2 [98.57, 94.0, 67.97, 473.21, 197.71] [10, 10, 10, 10, 10] True True 5 5
+Struct # I4Mn2 [360.6, 322.0, 176.16, 369.44, 417.16] [10, 10, 10, 10, 10] True True 5 5
+Struct # Te2Ba2 [75.15, 67.55, 51.86, 194.27, 136.37] [10, 10, 10, 10, 10] True True 5 5
+Struct # Cr2K2O4 [1261.12, 1162.4, 636.48, 1627.47, 974.91] [10, 10, 10, 10, 10] True True 5 5
+Struct # Sc2Rh6 [222.48, 203.48, 135.83, 537.36, 245.17] [10, 10, 10, 10, 10] True True 5 5
+Struct # Au8V2 [1439.0, 1281.45, 733.5, 1641.56, 903.56] [10, 10, 10, 10, 10] True True 5 5
+Struct # Co4F8 [294.16, 268.74, 193.62, 529.95, 265.25] [10, 10, 10, 10, 10] True True 5 5
+Struct # Cr2Br4 [159.24, 148.31, 85.39, 387.4, 227.68] [10, 10, 10, 10, 10] True True 5 5
+Struct # Re2Si4 [143.64, 136.11, 115.2, 552.97, 255.56] [10, 10, 10, 10, 10] True True 5 5
+Struct # B4Fe4 [834.59, 741.59, 502.23, 1365.24, 720.79] [10, 10, 10, 10, 10] True True 5 5
+Struct # Sc2Ag4 [371.15, 323.29, 233.78, 733.86, 354.85] [10, 10, 10, 10, 10] True True 5 5
+Struct # Ne2 [245.73, 236.83, 162.81, 372.89, 286.12] [10, 10, 10, 10, 10] True True 5 5
+Struct # Cr2N2 [226.88, 221.16, 166.39, 1091.76, 342.97] [10, 10, 10, 10, 10] True True 5 5
+Struct # Cr2O8Sr4 [1259.0, 1157.31, 755.07, 1390.18, 873.01] [10, 10, 10, 10, 10] True True 5 5
+Struct # Cr4Cl8 [360.38, 326.63, 177.6, 516.43, 280.0] [10, 10, 10, 10, 10] True True 5 5
+Struct # F4Xe2 [456.83, 397.41, 245.44, 412.72, 484.16] [10, 10, 10, 10, 10] True True 5 5
+Struct # C4O12Cd4 [576.14, 514.76, 265.07, 532.29, 370.61] [10, 10, 10, 10, 10] True True 5 5
+Struct # Ir2Hf2 [70.33, 66.71, 48.9, 331.46, 148.32] [10, 10, 10, 10, 10] True True 5 5
+Struct # I4V2 [121.16, 113.29, 71.94, 265.95, 186.87] [10, 10, 10, 10, 10] True True 5 5
+Struct # Mg16Cu8 [2474.76, 2171.76, 1113.92, 1261.04, 1088.73] [10, 10, 10, 10, 10] True True 5 5
+Struct # O4Pd4 [155.24, 144.44, 86.43, 360.13, 188.5] [10, 10, 10, 10, 10] True True 5 5
+Struct # Br4V2 [148.53, 141.06, 84.92, 381.83, 210.17] [10, 10, 10, 10, 10] True True 5 5
+Struct # F4Ti2 [200.65, 193.78, 150.49, 884.55, 293.79] [10, 10, 10, 10, 10] True True 5 5
+Struct # Tl8Se8 [266.46, 236.28, 130.02, 259.39, 175.7] [10, 10, 10, 10, 10] True True 5 5
+Struct # F6Ti2 [168.89, 160.94, 113.72, 412.93, 187.97] [10, 10, 10, 10, 10] True True 5 5
+Struct # Mn4Bi4 [651.46, 606.26, 355.29, 648.78, 579.91] [10, 10, 10, 10, 10] True True 5 5
+Struct # Ni2 [277.18, 272.55, 218.76, 1732.52, 497.73] [10, 10, 10, 10, 10] True True 5 5
+Struct # Hg6O6 [205.12, 173.52, 101.48, 318.9, 188.04] [10, 10, 10, 10, 10] True True 5 5
+Struct # Mo4Cl20 [671.0, 581.08, 302.68, 437.05, 371.48] [10, 10, 10, 10, 10] True True 5 5
+Struct # Sb4Mn4 [598.4, 538.09, 325.25, 629.35, 493.91] [10, 10, 10, 10, 10] True True 5 5
+Struct # P2In2 [64.25, 59.83, 56.47, 296.4, 148.62] [10, 10, 10, 10, 10] True True 5 5
+{u'insulating magnetic': OrderedDict([(u'I4V2', [[121.16, 113.29, 71.94, 265.95, 186.87]]), (u'Br4V2', [[148.53, 141.06, 84.92, 381.83, 210.17]]), (u'Cr2Br4', [[159.24, 148.31, 85.39, 387.4, 227.68]]), (u'F4Ti2', [[200.65, 193.78, 150.49, 884.55, 293.79]]), (u'Co4F8', [[294.16, 268.74, 193.62, 529.95, 265.25]]), (u'Cr4Cl8', [[360.38, 326.63, 177.6, 516.43, 280.0]]), (u'I4Mn2', [[360.6, 322.0, 176.16, 369.44, 417.16]]), (u'Cr4F8', [[386.61, 360.71, 224.08, 665.51, 300.69]]), (u'Mn4F8', [[538.97, 492.57, 293.79, 640.87, 408.37]]), (u'Cr2O4Li2', [[695.16, 645.21, 450.96, 1565.39, 623.63]]), (u'Cr2O4Na2', [[793.7, 707.82, 499.86, 1630.07, 782.7]]), (u'Cr2K2O4', [[1261.12, 1162.4, 636.48, 1627.47, 974.91]])]), u'insulating': OrderedDict([(u'Cs2H2', [[53.53, 53.29, 37.18, 141.12, 121.82]]), (u'P2In2', [[64.25, 59.83, 56.47, 296.4, 148.62]]), (u'Te2Ba2', [[75.15, 67.55, 51.86, 194.27, 136.37]]), (u'Ca2O2', [[82.38, 79.05, 62.18, 414.03, 185.78]]), (u'Pb4O4', [[107.27, 99.68, 63.63, 202.34, 142.36]]), (u'O4Rb4', [[137.74, 132.14, 77.57, 217.22, 154.97]]), (u'I8Be4', [[148.84, 136.83, 79.81, 157.79, 143.06]]), (u'Kr4', [[182.92, 162.66, 89.92, 132.92, 246.18]]), (u'Hg6O6', [[205.12, 173.52, 101.48, 318.9, 188.04]]), (u'Ar4', [[213.29, 187.69, 108.44, 174.84, 282.38]]), (u'Ne2', [[245.73, 236.83, 162.81, 372.89, 286.12]]), (u'Tl8Se8', [[266.46, 236.28, 130.02, 259.39, 175.7]]), (u'F4Xe2', [[456.83, 397.41, 245.44, 412.72, 484.16]]), (u'C4O12Cd4', [[576.14, 514.76, 265.07, 532.29, 370.61]])]), u'metallic magnetic': OrderedDict([(u'F6Ti2', [[168.89, 160.94, 113.72, 412.93, 187.97]]), (u'Cr2N2', [[226.88, 221.16, 166.39, 1091.76, 342.97]]), (u'Al2Fe2', [[227.15, 217.19, 154.07, 678.77, 410.14]]), (u'Ni2', [[277.18, 272.55, 218.76, 1732.52, 497.73]]), (u'S4Mn4', [[596.79, 537.98, 294.47, 632.66, 546.66]]), (u'Sb4Mn4', [[598.4, 538.09, 325.25, 629.35, 493.91]]), (u'Mn4Bi4', [[651.46, 606.26, 355.29, 648.78, 579.91]]), (u'Mo4Cl20', [[671.0, 581.08, 302.68, 437.05, 371.48]]), (u'B4Fe4', [[834.59, 741.59, 502.23, 1365.24, 720.79]]), (u'Cr2O8Sr4', [[1259.0, 1157.31, 755.07, 1390.18, 873.01]]), (u'Au8V2', [[1439.0, 1281.45, 733.5, 1641.56, 903.56]]), (u'Mn4Sn8', [[1728.17, 1582.05, 849.92, 1148.81, 979.3]])]), u'metallic': OrderedDict([(u'Ir2Hf2', [[70.33, 66.71, 48.9, 331.46, 148.32]]), (u'W2', [[76.09, 76.6, 65.54, 582.61, 174.33]]), (u'Ru2Zr2', [[89.87, 80.77, 60.89, 404.24, 146.54]]), (u'Nb2N2', [[90.34, 88.52, 68.48, 489.59, 196.1]]), (u'Y2Ga4', [[94.48, 88.69, 67.79, 277.28, 126.12]]), (u'Os2Ti2', [[98.57, 94.0, 67.97, 473.21, 197.71]]), (u'Re2Si4', [[143.64, 136.11, 115.2, 552.97, 255.56]]), (u'O4Pd4', [[155.24, 144.44, 86.43, 360.13, 188.5]]), (u'Ni4As4', [[160.56, 150.39, 97.56, 365.0, 178.44]]), (u'S4Ta2', [[215.97, 205.54, 142.1, 663.43, 332.16]]), (u'Sc2Rh6', [[222.48, 203.48, 135.83, 537.36, 245.17]]), (u'Sc2Ag4', [[371.15, 323.29, 233.78, 733.86, 354.85]]), (u'Ge6Pt12', [[661.22, 567.29, 286.17, 590.98, 427.5]]), (u'Mg16Cu8', [[2474.76, 2171.76, 1113.92, 1261.04, 1088.73]])])}
+Calculations with the same number of iterations:
+
+S4Mn4 [[596.79, 537.98, 294.47, 632.66, 546.66]]
+Cr2O4Li2 [[695.16, 645.21, 450.96, 1565.39, 623.63]]
+Ca2O2 [[82.38, 79.05, 62.18, 414.03, 185.78]]
+Cr2O4Na2 [[793.7, 707.82, 499.86, 1630.07, 782.7]]
+Co4F8 [[294.16, 268.74, 193.62, 529.95, 265.25]]
+Al2Fe2 [[227.15, 217.19, 154.07, 678.77, 410.14]]
+O4Rb4 [[137.74, 132.14, 77.57, 217.22, 154.97]]
+Kr4 [[182.92, 162.66, 89.92, 132.92, 246.18]]
+I8Be4 [[148.84, 136.83, 79.81, 157.79, 143.06]]
+Y2Ga4 [[94.48, 88.69, 67.79, 277.28, 126.12]]
+S4Ta2 [[215.97, 205.54, 142.1, 663.43, 332.16]]
+Ge6Pt12 [[661.22, 567.29, 286.17, 590.98, 427.5]]
+Mn4Sn8 [[1728.17, 1582.05, 849.92, 1148.81, 979.3]]
+Cs2H2 [[53.53, 53.29, 37.18, 141.12, 121.82]]
+Ar4 [[213.29, 187.69, 108.44, 174.84, 282.38]]
+Nb2N2 [[90.34, 88.52, 68.48, 489.59, 196.1]]
+Ne2 [[245.73, 236.83, 162.81, 372.89, 286.12]]
+Pb4O4 [[107.27, 99.68, 63.63, 202.34, 142.36]]
+Ru2Zr2 [[89.87, 80.77, 60.89, 404.24, 146.54]]
+Os2Ti2 [[98.57, 94.0, 67.97, 473.21, 197.71]]
+Te2Ba2 [[75.15, 67.55, 51.86, 194.27, 136.37]]
+Sb4Mn4 [[598.4, 538.09, 325.25, 629.35, 493.91]]
+Cr2K2O4 [[1261.12, 1162.4, 636.48, 1627.47, 974.91]]
+Sc2Rh6 [[222.48, 203.48, 135.83, 537.36, 245.17]]
+Au8V2 [[1439.0, 1281.45, 733.5, 1641.56, 903.56]]
+Ni4As4 [[160.56, 150.39, 97.56, 365.0, 178.44]]
+Mn4Bi4 [[651.46, 606.26, 355.29, 648.78, 579.91]]
+F4Xe2 [[456.83, 397.41, 245.44, 412.72, 484.16]]
+Cr2Br4 [[159.24, 148.31, 85.39, 387.4, 227.68]]
+Re2Si4 [[143.64, 136.11, 115.2, 552.97, 255.56]]
+B4Fe4 [[834.59, 741.59, 502.23, 1365.24, 720.79]]
+Sc2Ag4 [[371.15, 323.29, 233.78, 733.86, 354.85]]
+Mn4F8 [[538.97, 492.57, 293.79, 640.87, 408.37]]
+Cr2N2 [[226.88, 221.16, 166.39, 1091.76, 342.97]]
+Cr2O8Sr4 [[1259.0, 1157.31, 755.07, 1390.18, 873.01]]
+Cr4Cl8 [[360.38, 326.63, 177.6, 516.43, 280.0]]
+Cr4F8 [[386.61, 360.71, 224.08, 665.51, 300.69]]
+C4O12Cd4 [[576.14, 514.76, 265.07, 532.29, 370.61]]
+Ir2Hf2 [[70.33, 66.71, 48.9, 331.46, 148.32]]
+I4V2 [[121.16, 113.29, 71.94, 265.95, 186.87]]
+Mg16Cu8 [[2474.76, 2171.76, 1113.92, 1261.04, 1088.73]]
+O4Pd4 [[155.24, 144.44, 86.43, 360.13, 188.5]]
+Br4V2 [[148.53, 141.06, 84.92, 381.83, 210.17]]
+F4Ti2 [[200.65, 193.78, 150.49, 884.55, 293.79]]
+Tl8Se8 [[266.46, 236.28, 130.02, 259.39, 175.7]]
+F6Ti2 [[168.89, 160.94, 113.72, 412.93, 187.97]]
+W2 [[76.09, 76.6, 65.54, 582.61, 174.33]]
+Ni2 [[277.18, 272.55, 218.76, 1732.52, 497.73]]
+Hg6O6 [[205.12, 173.52, 101.48, 318.9, 188.04]]
+Mo4Cl20 [[671.0, 581.08, 302.68, 437.05, 371.48]]
+I4Mn2 [[360.6, 322.0, 176.16, 369.44, 417.16]]
+P2In2 [[64.25, 59.83, 56.47, 296.4, 148.62]]
+Calculations with the different number of iterations:
+
+Zn4 [[155.89, 143.3, 0.0, 583.23, 175.65]]

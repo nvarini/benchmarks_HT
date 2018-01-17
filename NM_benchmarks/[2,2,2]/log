@@ -1,0 +1,221 @@
+Calculations PK
+
+Ge24Pt48 [<PwCalculation: uuid: eeaa797c-caba-4f1d-a418-c1d7b1850e23 (pk: 257749)>, <PwCalculation: uuid: 9600ffc1-282c-4dd8-b08a-08d9244d98f8 (pk: 259741)>, <PwCalculation: uuid: d5af8fbc-edf5-43ef-873c-556ed6397553 (pk: 256063)>, <PwCalculation: uuid: 7fa86023-9dd2-446a-92a6-d22cfa784a97 (pk: 256277)>, <PwCalculation: uuid: 8651119b-72e2-413e-aec5-ecd6be223706 (pk: 257367)>]
+Os8Ti8 [<PwCalculation: uuid: 8ef8ccca-8917-48f3-8e66-2ff5daef59a6 (pk: 257498)>, <PwCalculation: uuid: e4883cd4-0e68-4936-b816-79251b6b4f90 (pk: 259516)>, <PwCalculation: uuid: 0bfd888a-7e0b-45d4-b3fa-cc3537f15b76 (pk: 256060)>, <PwCalculation: uuid: 2481b706-a944-4e92-83e4-9c3c16d26461 (pk: 256560)>, <PwCalculation: uuid: cd87eb30-7f05-4d00-9209-11448b1709fa (pk: 256716)>]
+I16Mn8 [<PwCalculation: uuid: 00e2d04f-5162-4d72-b7ea-85d62f679c98 (pk: 257405)>, <PwCalculation: uuid: 705283a0-30d7-4a89-8359-457099b68be0 (pk: 259643)>, <PwCalculation: uuid: ebdd5d19-c63f-4c43-abdd-d75974e46fa7 (pk: 256160)>, <PwCalculation: uuid: 91e09208-4edf-40ed-a4b6-54a631f05c04 (pk: 256335)>, <PwCalculation: uuid: d94ec53a-ef94-4b20-8286-d96dd12028ec (pk: 257084)>]
+Sb16Mn16 [<PwCalculation: uuid: 6310f99b-819b-4104-b1c7-7c111e6df252 (pk: 257802)>, <PwCalculation: uuid: 9da60feb-0028-4f2c-9fdd-17c68d810585 (pk: 259568)>, <PwCalculation: uuid: 8df21252-808a-446f-9cf6-2e0cf07c2f0b (pk: 256095)>, <PwCalculation: uuid: 0f2e8e35-78c1-4d2e-9969-5ad3d47774a8 (pk: 256283)>, <PwCalculation: uuid: ab781fc3-776d-40dc-94a0-4040d2814d16 (pk: 257241)>]
+Au32V8 [<PwCalculation: uuid: 7cbb018b-9012-40b0-8db9-3d89de7c6041 (pk: 257508)>, <PwCalculation: uuid: 7ca4e6b7-c425-4b79-921d-86f169ec5d85 (pk: 259758)>, <PwCalculation: uuid: 68e66cf6-5b26-40d4-a42d-32094a6b4353 (pk: 256175)>, <PwCalculation: uuid: d732e6cd-7db4-459a-885f-6d2b2379453e (pk: 256542)>, <PwCalculation: uuid: 511d91c9-d4cc-4410-a5be-a88b2039b267 (pk: 257465)>]
+Mg64Cu32 [<PwCalculation: uuid: 43546c2e-7824-4996-88f0-c19cf91807a7 (pk: 257777)>, <PwCalculation: uuid: 64e41b6d-ebee-424d-b743-71ad3d7c8bf2 (pk: 259800)>, <PwCalculation: uuid: 1be16fb0-fd6d-4dbb-b6dc-804d38fe5d94 (pk: 256597)>, <PwCalculation: uuid: 227a7517-27cc-487c-a84f-53df997f8b65 (pk: 256271)>, <PwCalculation: uuid: 8d5d2df8-a5dd-448e-8dd3-8d3e7a2e7f05 (pk: 257949)>]
+I16V8 [<PwCalculation: uuid: 9487707d-63f7-485e-810a-5607e75c91a3 (pk: 257517)>, <PwCalculation: uuid: d252e55d-01eb-4780-b2ca-a20702077132 (pk: 259544)>, <PwCalculation: uuid: 62ebfc0a-3d08-4add-8190-756b544986d1 (pk: 255968)>, <PwCalculation: uuid: 7bce2a1c-a074-4c45-85f6-3fff38f480bf (pk: 256494)>, <PwCalculation: uuid: 4a910c3f-2945-4bca-8711-431b5ae9606a (pk: 256757)>]
+F24Ti8 [<PwCalculation: uuid: ff6e45d8-9a8a-410d-903c-8df8dd9441e1 (pk: 257659)>, <PwCalculation: uuid: 6ad5aeb0-8354-4b4e-99ec-bf7bd5dee96c (pk: 259552)>, <PwCalculation: uuid: 462f3b7d-01e3-4c2b-babf-6e90b88d57e0 (pk: 255962)>, <PwCalculation: uuid: ac7efe0e-3680-42c4-a26f-1ff57d584ff9 (pk: 256390)>, <PwCalculation: uuid: 22a4652b-59b5-49b9-826e-51c71f5e5575 (pk: 256858)>]
+S16Ta8 [<PwCalculation: uuid: b80c73b9-1347-49aa-a2ab-ceb31c96dd86 (pk: 257627)>, <PwCalculation: uuid: dfc762d1-59ed-4afe-a35b-fbaa1dbaa61a (pk: 259625)>, <PwCalculation: uuid: 03d8093f-06a6-4210-94a1-91458edd7863 (pk: 256057)>, <PwCalculation: uuid: d2736406-5a5d-467c-89b8-4b209e33734a (pk: 256536)>, <PwCalculation: uuid: 041021eb-b458-4823-b8bb-754c23d80ebe (pk: 256953)>]
+Ca8O8 [<PwCalculation: uuid: fa31eaad-22fd-49cf-b47b-7884a18ac489 (pk: 257643)>, <PwCalculation: uuid: d1a855d4-e429-4519-b847-686d6e554d7f (pk: 259510)>, <PwCalculation: uuid: 58c2f74f-a269-4d07-87a6-9f8cc949f974 (pk: 255971)>, <PwCalculation: uuid: 190c4da5-ac03-4166-889f-9a9c42f1cf02 (pk: 256424)>, <PwCalculation: uuid: 3ac438b4-cf62-4733-8eb4-e6c21f77765c (pk: 256701)>]
+Tl32Se32 [<PwCalculation: uuid: 97b0cca0-6f6c-45f2-8fcf-61458611c256 (pk: 257734)>, <PwCalculation: uuid: 25ba67e0-dce0-4aef-b5a3-f7b49c516842 (pk: 259522)>, <PwCalculation: uuid: 3754461a-4768-411c-8a3c-7b6b6ffc004b (pk: 256166)>, <PwCalculation: uuid: c7cb41e0-a7eb-493c-9fe1-dcde70784672 (pk: 256436)>, <PwCalculation: uuid: 9c7fb6cc-d105-41eb-b4b1-74d32677067c (pk: 256972)>]
+I32Be16 [<PwCalculation: uuid: d7ea9782-a60a-47f6-8dad-cce8120045b6 (pk: 257783)>, <PwCalculation: uuid: 463955f1-0c82-48f0-963c-8f46c6a0f428 (pk: 259707)>, <PwCalculation: uuid: 91fc1544-6ecd-4c65-aecb-9975812f6f84 (pk: 255932)>, <PwCalculation: uuid: a6eeda38-7186-4684-bf5b-0eb9856c2e4d (pk: 256521)>, <PwCalculation: uuid: 7a8655a6-468c-4108-a774-d4421b74d698 (pk: 256832)>]
+O16Pd16 [<PwCalculation: uuid: d34f0f62-4e0d-4fec-b586-96288712ecc1 (pk: 257423)>, <PwCalculation: uuid: a8d32d5b-1791-489c-827f-740aebcac999 (pk: 259556)>, <PwCalculation: uuid: 89b65a09-7df4-40d4-8565-b88f88ff72d9 (pk: 256048)>, <PwCalculation: uuid: 9fa358b0-e894-4bba-92f7-2a32332565dc (pk: 256353)>, <PwCalculation: uuid: fe90a120-0092-456f-8435-fc71aab0c3bd (pk: 256901)>]
+B16Fe16 [<PwCalculation: uuid: ffcf96fb-2bda-4f40-979c-113d62ade65f (pk: 257589)>, <PwCalculation: uuid: 24d6f146-78b6-4fe4-ab30-dfd430014d97 (pk: 259722)>, <PwCalculation: uuid: 77edfaba-9b3b-42bd-9b9d-4707790449a0 (pk: 256187)>, <PwCalculation: uuid: 6f42b448-069f-44bc-a5aa-23b3b97c48e9 (pk: 256572)>, <PwCalculation: uuid: d4a90668-0da1-4862-b29b-799b578b94f2 (pk: 257305)>]
+Re8Si16 [<PwCalculation: uuid: 3e94498f-0bc5-4950-8c13-0c8c5d8373dc (pk: 257598)>, <PwCalculation: uuid: 2237c67f-603c-49c7-bb80-8233ee443e12 (pk: 259464)>, <PwCalculation: uuid: 00ecaa67-7604-4080-bbd2-bc60ba214b05 (pk: 256075)>, <PwCalculation: uuid: d50405ac-1e25-44a6-9d8d-19dcda09bf68 (pk: 256418)>, <PwCalculation: uuid: cebc4603-1347-4029-9122-10150e5131f0 (pk: 256805)>]
+Mn16Sn32 [<PwCalculation: uuid: 0ffb84f5-118f-4039-acfa-584a709f1fb4 (pk: 257811)>, <PwCalculation: uuid: ac4e1361-2f80-496e-907c-73e52edd2894 (pk: 259797)>, <PwCalculation: uuid: 34750946-87a7-400b-8827-fd9dba2602cc (pk: 256491)>, <PwCalculation: uuid: e2f065e1-7244-4e03-94b0-5287ca78f58c (pk: 256324)>, <PwCalculation: uuid: f35f4a7f-f817-45f6-b0fb-b063640c5e23 (pk: 257713)>]
+Sc8Ag16 [<PwCalculation: uuid: 2f4c85e5-58d0-4220-8fa0-35b03541e9b9 (pk: 257432)>, <PwCalculation: uuid: 3a9540e3-e7f7-4e4c-aa5a-e8c402bd93d0 (pk: 259672)>, <PwCalculation: uuid: 0ac5d77c-d0da-4858-9afe-71f21ee0b0be (pk: 256051)>, <PwCalculation: uuid: 26eebfc5-84c8-4fd5-95be-e84f94d0d5b9 (pk: 256509)>, <PwCalculation: uuid: b012d6f6-c976-40bf-a705-a787e6a1098c (pk: 257124)>]
+Cr8O16Na8 [<PwCalculation: uuid: c1a0f764-e089-4348-9f55-389c29cf7ee5 (pk: 257558)>, <PwCalculation: uuid: c46bc3d2-1a6b-449e-8590-e149528a5728 (pk: 259684)>, <PwCalculation: uuid: b0150142-dd24-4c34-b4dc-8747972fe7d9 (pk: 256184)>, <PwCalculation: uuid: 538348fe-7dae-45e0-b46a-e0ea6273498d (pk: 256500)>, <PwCalculation: uuid: 1f3f948c-be2e-408a-82ff-5c4fed269347 (pk: 257278)>]
+Cr16F32 [<PwCalculation: uuid: 7cb92f35-fbc8-4643-895e-1891aa1b7312 (pk: 257542)>, <PwCalculation: uuid: 336a4af8-24b1-4d45-be22-3a5b1c8fe896 (pk: 259714)>, <PwCalculation: uuid: 00fd49aa-a5c7-4871-ba9c-2aada3669d31 (pk: 255965)>, <PwCalculation: uuid: 2fe1e74c-f994-4d4e-b9c7-e9c0d8787f7f (pk: 256545)>, <PwCalculation: uuid: f63d3c0c-98ef-4266-96b5-b23c2221a823 (pk: 257019)>]
+Kr16 [<PwCalculation: uuid: d0a538f0-630e-4b0e-acf2-6890a0b73ea6 (pk: 257570)>, <PwCalculation: uuid: 2b71a19d-6039-4ef0-9cc5-a8de198b39a3 (pk: 259485)>, <PwCalculation: uuid: abb44d2f-bb5c-4332-8b9d-4ba4b9dd240d (pk: 256084)>, <PwCalculation: uuid: 895d7e04-347e-46c3-a997-0c20d31c7f74 (pk: 256280)>, <PwCalculation: uuid: 7d502c5a-fa0a-47bc-b968-24b0bf18c040 (pk: 256862)>]
+Y8Ga16 [<PwCalculation: uuid: e7db7d14-b729-468f-81f9-cf28fc8f6046 (pk: 257687)>, <PwCalculation: uuid: bdc3d0b4-a61f-4c95-945b-86b4d4c58c5f (pk: 259428)>, <PwCalculation: uuid: f47a5315-ecbc-43c4-9a30-f5b129e2775e (pk: 256045)>, <PwCalculation: uuid: ce7b6763-60c3-4d46-adb4-c5694fe05977 (pk: 256274)>, <PwCalculation: uuid: 31ac1411-000d-450d-a4ba-b1fc2c437b7b (pk: 256705)>]
+S16Mn16 [<PwCalculation: uuid: 2804dea0-c234-4344-9e73-9ecda542c677 (pk: 257532)>, <PwCalculation: uuid: fbd047f5-416d-4276-b65a-39d246b6ddde (pk: 259737)>, <PwCalculation: uuid: 2ca273ff-5959-4b42-8a92-af0d82836cff (pk: 256169)>, <PwCalculation: uuid: 6ab011ef-1199-4cd9-ace3-0e64f03cc7d2 (pk: 256527)>, <PwCalculation: uuid: af857275-0a83-4620-bcd6-edaa51ed7fc8 (pk: 257205)>]
+Mn16Bi16 [<PwCalculation: uuid: f2950339-7c64-4888-8919-95aacc5d1569 (pk: 257761)>, <PwCalculation: uuid: 221e01ad-6c70-4172-bb85-f57076ad479b (pk: 259687)>, <PwCalculation: uuid: c2982e6e-5f3d-4cb6-bdbd-a58dbf677b22 (pk: 256172)>, <PwCalculation: uuid: 9ba8d661-c2d1-4254-8a2f-976d26ab6330 (pk: 256362)>, <PwCalculation: uuid: 5537d670-b697-40e0-b543-acc633ddc336 (pk: 257297)>]
+Co16F32 [<PwCalculation: uuid: 898ba64c-9ab2-4a3c-9262-fe508a732c3e (pk: 257780)>, <PwCalculation: uuid: e4871bcb-1262-4513-b0a0-8a3a714731eb (pk: 259525)>, <PwCalculation: uuid: ee843543-4ee2-476f-864b-2e8cb20cfa3b (pk: 256087)>, <PwCalculation: uuid: 5ccb1fd6-1fb4-4e9c-adea-fcb04b11d75e (pk: 256584)>, <PwCalculation: uuid: 3363b034-8a1b-4766-8ca5-d109de16897c (pk: 256975)>]
+Nb8N8 [<PwCalculation: uuid: 22976acd-0e21-422f-a4de-588ccd6146f2 (pk: 257402)>, <PwCalculation: uuid: a25d1129-2a62-444f-8dd2-26971ddecb37 (pk: 259467)>, <PwCalculation: uuid: 41d6d5c7-b7e8-4684-a88c-119660875242 (pk: 256066)>, <PwCalculation: uuid: 81331b41-f7d7-4d65-848a-8a48529b656b (pk: 256400)>, <PwCalculation: uuid: 92ed687d-dc11-49e9-b3c2-3809cfd0e213 (pk: 256664)>]
+Pb16O16 [<PwCalculation: uuid: 89fe7af2-6661-4aa0-b028-7fc241cac8f4 (pk: 257455)>, <PwCalculation: uuid: 8d7936d2-b357-44e6-b7cf-e04d27856641 (pk: 259434)>, <PwCalculation: uuid: 94dc4450-fe18-411e-83fb-ea49384eb4f6 (pk: 256157)>, <PwCalculation: uuid: a17f2df4-6f1e-4004-a2ca-641eaa2e2729 (pk: 256372)>, <PwCalculation: uuid: 0c4fc81e-46b2-4f83-9fc2-40ed5d78c325 (pk: 256780)>]
+Br16V8 [<PwCalculation: uuid: 47188996-9f51-4d91-bfbf-1667fbe5b1c0 (pk: 257720)>, <PwCalculation: uuid: 429fa211-8285-4d21-a589-432d7daf19b9 (pk: 259548)>, <PwCalculation: uuid: 290147ef-9e9d-42c9-9fa2-72575e9505ef (pk: 255956)>, <PwCalculation: uuid: 80b393ec-681a-4a4e-9b45-549a1fd3c7a9 (pk: 256518)>, <PwCalculation: uuid: 0fcadb37-e9d5-4808-b883-926cf91da1be (pk: 256799)>]
+Cr16Cl32 [<PwCalculation: uuid: 1d068911-099f-403f-a6a7-6bff8428d252 (pk: 257520)>, <PwCalculation: uuid: 242aeb80-80fa-4f10-a5fa-e5150b2e7553 (pk: 259700)>, <PwCalculation: uuid: ac150fcc-a506-4b9e-9c5a-2f55dc56ca72 (pk: 256163)>, <PwCalculation: uuid: 66625881-0063-4f10-be91-2cfd9da1eb9a (pk: 256512)>, <PwCalculation: uuid: 02095837-7034-439d-8618-7bbfa8bb457a (pk: 257022)>]
+F16Xe8 [<PwCalculation: uuid: f5f60b4e-d24e-409b-a8bb-048bf7970700 (pk: 257755)>, <PwCalculation: uuid: e189b883-74ef-4735-ac31-c37cb1fd4feb (pk: 259680)>, <PwCalculation: uuid: f1b2c93b-124b-4211-82d3-3a6f3c0d5530 (pk: 256069)>, <PwCalculation: uuid: 18e93abe-7d81-431c-80e8-944416897b2e (pk: 256262)>, <PwCalculation: uuid: 8788fd89-9fcb-4302-8cc9-bceb4000dc17 (pk: 257127)>]
+Zn16 [<PwCalculation: uuid: fa67917d-1b6c-44d6-9a75-f11b01ba138c (pk: 257504)>, <PwCalculation: uuid: d230d830-6132-4ea5-92b3-72093b475c78 (pk: 259473)>, <PwCalculation: uuid: 13c9eabb-d684-4aa9-8029-b07ab63848b4 (pk: 255914)>, <PwCalculation: uuid: bdc730ee-bddf-4c8c-9670-38c73d09105a (pk: 256548)>, <PwCalculation: uuid: e315aac9-c27a-4bf1-b4c2-d233084fb9b3 (pk: 256774)>]
+Cr8N8 [<PwCalculation: uuid: 147d57d1-6217-46b1-acaa-0f7ed836106d (pk: 257462)>, <PwCalculation: uuid: 8b92463b-bdb1-4c0a-9a63-40f718c0c067 (pk: 259634)>, <PwCalculation: uuid: 616414af-ea1b-494a-8f36-9628068ce392 (pk: 256037)>, <PwCalculation: uuid: de9576c7-6017-4cdf-8898-b7e36cbfb539 (pk: 256345)>, <PwCalculation: uuid: 6172b316-eb67-4b54-81ef-353a8557e350 (pk: 256898)>]
+Ru8Zr8 [<PwCalculation: uuid: 154b867e-00ed-4cb1-bd25-d529aece3444 (pk: 257477)>, <PwCalculation: uuid: a85e93b8-4e8d-4bfc-b9c3-eed32bab5f82 (pk: 259622)>, <PwCalculation: uuid: 940ea55b-eadc-41ae-97c1-67096ed97a5a (pk: 256142)>, <PwCalculation: uuid: c645ac79-b6f3-4739-8970-1c6320b78c10 (pk: 256409)>, <PwCalculation: uuid: 74630438-7412-4b50-93c0-501c0605fc86 (pk: 256719)>]
+Hg24O24 [<PwCalculation: uuid: ba5ec069-2c50-4795-bcd9-c1a58c0b8a5e (pk: 257767)>, <PwCalculation: uuid: fb6e877a-df4c-4bc4-9ccc-16aaa7d82f3a (pk: 259710)>, <PwCalculation: uuid: eb7ca9c5-a1a1-4d65-9d7d-7ff8f4f9ab7a (pk: 255935)>, <PwCalculation: uuid: 1736e480-8062-4a64-b23d-e0b1bab63844 (pk: 256587)>, <PwCalculation: uuid: 5b7cb761-49a2-4444-8d54-c1c631e14a80 (pk: 256950)>]
+Cr8O16Li8 [<PwCalculation: uuid: a1b4ae9f-0cea-4a51-9128-2c7a7edb5a87 (pk: 257656)>, <PwCalculation: uuid: e4e2c940-92d9-4468-8fc5-538757ac7ed2 (pk: 259588)>, <PwCalculation: uuid: f72ea6e3-403b-4fb7-8668-d9df627a89f6 (pk: 256181)>, <PwCalculation: uuid: b833fcdb-d7c9-46e7-b902-aec1f3497a1b (pk: 256530)>, <PwCalculation: uuid: 8f35f1d5-bf39-467c-8f52-3e6cd54945d8 (pk: 257199)>]
+Mn16F32 [<PwCalculation: uuid: f0bdfeee-d8bf-421b-8a50-a85adcaa347d (pk: 257723)>, <PwCalculation: uuid: 4feada46-2be9-400c-9f29-72a76da9c221 (pk: 259646)>, <PwCalculation: uuid: 46ad8f06-e4ed-4c64-a2b9-56ba59df5bab (pk: 256178)>, <PwCalculation: uuid: bfe9c8c1-ec5a-45e5-828f-99cbf78d2361 (pk: 256524)>, <PwCalculation: uuid: d5db6205-76de-4074-8a3c-73a02fda6778 (pk: 257174)>]
+Cr8Br16 [<PwCalculation: uuid: 48e5204b-159c-447c-942c-69913392f706 (pk: 257583)>, <PwCalculation: uuid: 6e492b9a-b4f9-4910-80d0-321286fa37bc (pk: 259628)>, <PwCalculation: uuid: e25f040f-264b-4547-a28e-d92ae2d95ef1 (pk: 256154)>, <PwCalculation: uuid: ac4ea2f1-a658-4b46-a743-e622fc263467 (pk: 256533)>, <PwCalculation: uuid: e1c4deb5-17d3-403d-96e4-df083e151252 (pk: 256802)>]
+O16Rb16 [<PwCalculation: uuid: 7a0374ab-59dd-45a8-8ee8-bb09a0da105e (pk: 257640)>, <PwCalculation: uuid: 534a813b-dd5e-4b15-b632-006278c51300 (pk: 259437)>, <PwCalculation: uuid: fb24a6de-7199-4a00-9d89-0a52a9975d35 (pk: 256072)>, <PwCalculation: uuid: 584de46f-c354-4846-81a3-1f30f1b17acc (pk: 256590)>, <PwCalculation: uuid: 89729ef3-0a50-430b-9613-d9522cbcfffb (pk: 256777)>]
+Ir8Hf8 [<PwCalculation: uuid: b820bc45-ff24-4439-956d-49ebf01a7570 (pk: 257698)>, <PwCalculation: uuid: a2a78eb7-71a3-4109-8527-2429f4352c85 (pk: 259631)>, <PwCalculation: uuid: beb2d86c-8d58-4353-9617-24ee10b2507b (pk: 255959)>, <PwCalculation: uuid: 7be016bc-78f6-466b-9f3e-32eb1a74f1b9 (pk: 256250)>, <PwCalculation: uuid: 38e9b60c-00c7-4671-8bc2-58df2fa85ece (pk: 256638)>]
+Ar16 [<PwCalculation: uuid: dcf07518-8d37-404e-9af2-fb4216d4372a (pk: 257604)>, <PwCalculation: uuid: 063a35fb-1c17-4456-8998-1a840eaaffdf (pk: 259482)>, <PwCalculation: uuid: 94c4aee0-ccda-4e0d-96e7-d065cafa47af (pk: 255929)>, <PwCalculation: uuid: 587d44c1-a474-4000-956f-dd20a00c071f (pk: 256314)>, <PwCalculation: uuid: c4fe82d3-9a87-4d48-bc82-fd46d0489443 (pk: 256855)>]
+Ne8 [<PwCalculation: uuid: e0149d9a-4f3e-4680-84a9-f97928442bb4 (pk: 257439)>, <PwCalculation: uuid: 951c0248-f05e-4709-bfb3-fb1f2e75faba (pk: 259703)>, <PwCalculation: uuid: f305d1e9-7e78-49e0-8534-a8add53ae220 (pk: 256054)>, <PwCalculation: uuid: 9d2959ad-92a3-458b-9260-b433d38643fa (pk: 256578)>, <PwCalculation: uuid: f2e29a55-4322-4469-b73d-63ce167169be (pk: 256894)>]
+Cr8O32Sr16 [<PwCalculation: uuid: 83666a91-3199-4fac-9482-a17db54a6a99 (pk: 257799)>, <PwCalculation: uuid: c95c522a-7411-4e5e-99ff-ee43f5edd50f (pk: 259768)>, <PwCalculation: uuid: bfd17261-532b-475d-b815-1481821adbee (pk: 256503)>, <PwCalculation: uuid: d5dd9bf7-7dbf-4b66-a597-ee075327a71e (pk: 256601)>, <PwCalculation: uuid: c9d022a1-971d-4011-9065-4651b37774d1 (pk: 257377)>]
+Mo16Cl80 [<PwCalculation: uuid: a80a9fb2-1b46-4d72-b20b-d345437d34c0 (pk: 257586)>, <PwCalculation: uuid: 951b24db-cecc-4257-ac3c-ab4dbfd94545 (pk: 259718)>, <PwCalculation: uuid: 6e79f476-bf13-4fc5-bde3-7d72f3d19b04 (pk: 256224)>, <PwCalculation: uuid: 68701bca-425b-4d08-ba39-ec0c97ad8967 (pk: 256318)>, <PwCalculation: uuid: e87412f0-e266-4226-a059-a8e51c9e2175 (pk: 257288)>]
+Cr8K8O16 [<PwCalculation: uuid: ae52dc74-5f5c-42aa-a58e-09acc4a90ed2 (pk: 257706)>, <PwCalculation: uuid: 903920b9-043b-425d-8018-99bceb037a9b (pk: 259778)>, <PwCalculation: uuid: 9bdea4e2-e7eb-4a59-8cc0-c2812d4a7742 (pk: 256241)>, <PwCalculation: uuid: 96b08f0c-7fa2-46ce-b562-5feb8ded151b (pk: 256605)>, <PwCalculation: uuid: bd38f485-ecd2-4773-9f2a-e204e99f8851 (pk: 257348)>]
+Cs8H8 [<PwCalculation: uuid: 3b969358-7aa1-4481-a5e6-6f882fbad744 (pk: 257607)>, <PwCalculation: uuid: 8fd2c39a-94aa-4231-8882-552b67e4c1d4 (pk: 259470)>, <PwCalculation: uuid: a21889d9-e075-4a02-ab57-95cd06e72e10 (pk: 255920)>, <PwCalculation: uuid: ff9e8552-c2ca-4e17-829a-909562166da0 (pk: 256307)>, <PwCalculation: uuid: b28983c9-7be2-4648-bdc0-25f0926a5e5d (pk: 256593)>]
+Te8Ba8 [<PwCalculation: uuid: 8e77bc27-c19b-4e5e-a9eb-39af8ad8d5bd (pk: 257592)>, <PwCalculation: uuid: 0acd5e6f-0705-4bb7-b392-68d6a7a3624b (pk: 259431)>, <PwCalculation: uuid: b79efecc-2c44-48c1-b28f-d33e72c54a32 (pk: 255926)>, <PwCalculation: uuid: ef5b3ed5-ad85-4d25-9782-4937b82c8f7e (pk: 256382)>, <PwCalculation: uuid: 02acb4c4-bdac-4001-ab29-c3e333975db2 (pk: 256669)>]
+Sc8Rh24 [<PwCalculation: uuid: 67fb2fcb-cf55-4cc0-9d72-bd874cc33982 (pk: 257630)>, <PwCalculation: uuid: e71a1fcb-46b0-4cbf-964d-87d863edf644 (pk: 259476)>, <PwCalculation: uuid: b7ce4e81-1b02-49c6-98ea-22e7f112ec41 (pk: 255923)>, <PwCalculation: uuid: 66460fa0-b15a-4c37-9595-8a67d313e40b (pk: 256581)>, <PwCalculation: uuid: 2e0c9462-6a1b-44cb-8e64-e8c28135c5aa (pk: 256931)>]
+F16Ti8 [<PwCalculation: uuid: 80dd734c-c18c-42e1-ac84-96f7a6069eba (pk: 257414)>, <PwCalculation: uuid: d86dc918-972b-4fca-b407-c75b799463d9 (pk: 259640)>, <PwCalculation: uuid: 03ce28f7-1157-4ad5-bc5f-446596017fa5 (pk: 256146)>, <PwCalculation: uuid: f974eae7-9b48-4261-b445-0379b6eac32b (pk: 256515)>, <PwCalculation: uuid: dbbab568-69e3-4856-a5f6-76ba21c91aa8 (pk: 256824)>]
+Ni8 [<PwCalculation: uuid: cc0df990-bcf7-4649-bb1f-422728571bb4 (pk: 257670)>, <PwCalculation: uuid: f2100ce5-0182-40b9-af6a-c86c10487e6a (pk: 259637)>, <PwCalculation: uuid: 80185b67-d74a-4ee8-9de7-7bddb42a3858 (pk: 256041)>, <PwCalculation: uuid: 33a7fd63-9129-429e-95e9-2ad3bdc18efd (pk: 256565)>, <PwCalculation: uuid: 1c0448be-3883-4666-ac95-33294050ecc5 (pk: 256912)>]
+C16O48Cd16 [<PwCalculation: uuid: 84a0caf3-22b1-4f8e-995f-57fc1e8a97be (pk: 257690)>, <PwCalculation: uuid: b435f56c-5f03-48ca-8b92-798e6bd9b6d5 (pk: 259649)>, <PwCalculation: uuid: 719b13f1-5a8b-4a29-aa13-7bdd48acd2c3 (pk: 256078)>, <PwCalculation: uuid: eb0d99cf-b904-4616-bc35-074e224d3089 (pk: 256539)>, <PwCalculation: uuid: becc107e-3f92-44c2-bafd-3da58ba1ce9b (pk: 257218)>]
+Al8Fe8 [<PwCalculation: uuid: d1d71e5b-78ab-42dc-a821-cd6b95b4075b (pk: 257611)>, <PwCalculation: uuid: 273fb0d3-1096-4a07-8b4f-6b4bd4edf411 (pk: 259479)>, <PwCalculation: uuid: dd0fdfaa-e921-41a6-86a4-555974f209a6 (pk: 256081)>, <PwCalculation: uuid: 4c9c0f7b-2c07-4aad-aa57-10469da9d7b8 (pk: 256557)>, <PwCalculation: uuid: f58560cb-eeae-415f-a907-c0a1b847f07a (pk: 256928)>]
+Ni16As16 [<PwCalculation: uuid: 20fe34ba-c118-44da-b6ce-ed9c066540af (pk: 257529)>, <PwCalculation: uuid: d2a9c2dd-b924-46af-bb5c-7ac4f109f62f (pk: 259519)>, <PwCalculation: uuid: 61fe6301-8e81-461f-a813-c0a47b4f6ade (pk: 255974)>, <PwCalculation: uuid: ec668c7b-15d6-42d0-8668-f42431bbf5e1 (pk: 256497)>, <PwCalculation: uuid: 25693d26-0842-46b3-9a35-bbc4958ae462 (pk: 256827)>]
+P8In8 [<PwCalculation: uuid: 57291bba-c623-4591-8d63-8b897d9e7bb1 (pk: 257673)>, <PwCalculation: uuid: fb94e4c1-62f4-41bc-92b1-5aeda8edad76 (pk: 259585)>, <PwCalculation: uuid: 606f089c-c685-4c12-af5a-44f242b940b2 (pk: 255917)>, <PwCalculation: uuid: 6ecb1cf8-1d4e-4e7d-b65b-062a0de702a6 (pk: 256259)>, <PwCalculation: uuid: 9d260f0f-d01f-4a59-9e74-74ff74d456f0 (pk: 256642)>]
+W8 [<PwCalculation: uuid: efde0204-c996-4e53-8872-ba637897144c (pk: 257501)>, <PwCalculation: uuid: fcad9d27-9ec1-48d4-82db-ec7ba2b7b5ba (pk: 259513)>, <PwCalculation: uuid: 7db0bace-083b-4f27-b6f7-efcd5ca1eb76 (pk: 256150)>, <PwCalculation: uuid: 95ab8f83-483b-4557-8c0c-207d386b9d08 (pk: 256506)>, <PwCalculation: uuid: d3330f86-4e92-44e1-8576-2633e48a9154 (pk: 256635)>]
+Number of iterations
+
+Ge24Pt48 [10, 10, 10, 0, 10]
+Os8Ti8 [10, 10, 10, 10, 10]
+I16Mn8 [10, 10, 10, 0, 10]
+Sb16Mn16 [10, 10, 10, 0, 10]
+Au32V8 [10, 10, 10, 10, 10]
+Mg64Cu32 [10, 10, 10, 0, 10]
+I16V8 [10, 10, 10, 10, 10]
+F24Ti8 [10, 10, 10, 10, 10]
+S16Ta8 [10, 10, 10, 10, 10]
+Ca8O8 [10, 10, 10, 10, 10]
+Tl32Se32 [10, 10, 10, 10, 10]
+I32Be16 [10, 10, 10, 10, 10]
+O16Pd16 [10, 10, 10, 10, 10]
+B16Fe16 [10, 10, 10, 10, 10]
+Re8Si16 [10, 10, 10, 10, 10]
+Mn16Sn32 [10, 10, 10, 0, 10]
+Sc8Ag16 [10, 10, 10, 10, 10]
+Cr8O16Na8 [10, 10, 10, 10, 10]
+Cr16F32 [10, 10, 10, 10, 10]
+Kr16 [10, 10, 10, 0, 10]
+Y8Ga16 [10, 10, 10, 10, 10]
+S16Mn16 [10, 10, 10, 0, 10]
+Mn16Bi16 [10, 10, 10, 0, 10]
+Co16F32 [10, 10, 10, 10, 10]
+Nb8N8 [10, 10, 10, 10, 10]
+Pb16O16 [10, 10, 10, 10, 10]
+Br16V8 [10, 10, 10, 10, 10]
+Cr16Cl32 [10, 10, 10, 10, 10]
+F16Xe8 [10, 10, 10, 0, 10]
+Zn16 [10, 10, 10, 10, 10]
+Cr8N8 [10, 10, 10, 10, 10]
+Ru8Zr8 [10, 10, 10, 10, 10]
+Hg24O24 [10, 10, 10, 10, 10]
+Cr8O16Li8 [10, 10, 10, 10, 10]
+Mn16F32 [10, 10, 10, 0, 10]
+Cr8Br16 [10, 10, 10, 10, 10]
+O16Rb16 [10, 10, 10, 10, 10]
+Ir8Hf8 [10, 10, 10, 10, 10]
+Ar16 [10, 10, 10, 0, 10]
+Ne8 [10, 10, 10, 10, 10]
+Cr8O32Sr16 [10, 10, 10, 10, 10]
+Mo16Cl80 [10, 10, 10, 0, 10]
+Cr8K8O16 [10, 10, 10, 10, 10]
+Cs8H8 [10, 10, 10, 10, 10]
+Te8Ba8 [10, 10, 10, 10, 10]
+Sc8Rh24 [10, 10, 10, 10, 10]
+F16Ti8 [10, 10, 10, 10, 10]
+Ni8 [10, 10, 10, 10, 10]
+C16O48Cd16 [10, 10, 10, 10, 10]
+Al8Fe8 [10, 10, 10, 10, 10]
+Ni16As16 [10, 10, 10, 10, 10]
+P8In8 [10, 10, 10, 10, 10]
+W8 [10, 10, 10, 10, 10]
+Struct # Ge24Pt48 [6060.0, 5340.0, 2040.01, 0.0, 2375.33] [10, 10, 10, 0, 10] False False 5 5
+Struct # Os8Ti8 [407.41, 354.44, 186.37, 390.39, 274.8] [10, 10, 10, 10, 10] True True 5 5
+Struct # I16Mn8 [2534.76, 2259.26, 1090.81, 0.0, 909.94] [10, 10, 10, 0, 10] False False 5 5
+Struct # Sb16Mn16 [4560.0, 4080.0, 1818.21, 0.0, 1401.29] [10, 10, 10, 0, 10] False False 5 5
+Struct # Au32V8 [9540.0, 8520.0, 3325.62, 2510.79, 3076.49] [10, 10, 10, 10, 10] True True 5 5
+Struct # Mg64Cu32 [42720.0, 25260.0, 9900.0, 0.0, 7740.0] [10, 10, 10, 0, 10] False False 5 5
+Struct # I16V8 [588.15, 518.66, 243.85, 307.8, 326.75] [10, 10, 10, 10, 10] True True 5 5
+Struct # F24Ti8 [880.88, 778.26, 381.47, 542.42, 439.91] [10, 10, 10, 10, 10] True True 5 5
+Struct # S16Ta8 [1144.97, 1026.12, 547.69, 765.95, 623.65] [10, 10, 10, 10, 10] True True 5 5
+Struct # Ca8O8 [356.37, 330.01, 195.45, 400.12, 241.94] [10, 10, 10, 10, 10] True True 5 5
+Struct # Tl32Se32 [2404.88, 2108.92, 836.65, 529.51, 681.14] [10, 10, 10, 10, 10] True True 5 5
+Struct # I32Be16 [1213.12, 1062.64, 458.31, 297.55, 387.53] [10, 10, 10, 10, 10] True True 5 5
+Struct # O16Pd16 [1022.98, 906.01, 417.12, 488.38, 482.71] [10, 10, 10, 10, 10] True True 5 5
+Struct # B16Fe16 [8880.0, 4680.0, 1964.66, 1748.53, 1838.95] [10, 10, 10, 10, 10] True True 5 5
+Struct # Re8Si16 [596.89, 541.44, 307.11, 565.66, 362.63] [10, 10, 10, 10, 10] True True 5 5
+Struct # Mn16Sn32 [22200.0, 13440.0, 5820.0, 0.0, 3592.46] [10, 10, 10, 0, 10] False False 5 5
+Struct # Sc8Ag16 [1979.04, 1743.07, 764.43, 1137.82, 1016.37] [10, 10, 10, 10, 10] True True 5 5
+Struct # Cr8O16Na8 [4080.0, 3780.0, 1687.98, 1794.55, 1559.3] [10, 10, 10, 10, 10] True True 5 5
+Struct # Cr16F32 [1976.98, 1788.02, 770.55, 770.93, 800.86] [10, 10, 10, 10, 10] True True 5 5
+Struct # Kr16 [1416.17, 1256.9, 585.82, 0.0, 431.8] [10, 10, 10, 0, 10] False False 5 5
+Struct # Y8Ga16 [520.92, 462.12, 235.93, 327.1, 256.13] [10, 10, 10, 10, 10] True True 5 5
+Struct # S16Mn16 [6780.0, 3153.82, 1479.15, 0.0, 1266.8] [10, 10, 10, 0, 10] False False 5 5
+Struct # Mn16Bi16 [5280.0, 4560.0, 2122.41, 0.0, 1737.59] [10, 10, 10, 0, 10] False False 5 5
+Struct # Co16F32 [1799.92, 1561.5, 732.47, 728.05, 676.38] [10, 10, 10, 10, 10] True True 5 5
+Struct # Nb8N8 [323.8, 296.37, 153.14, 363.03, 232.07] [10, 10, 10, 10, 10] True True 5 5
+Struct # Pb16O16 [788.07, 697.76, 317.19, 303.77, 357.32] [10, 10, 10, 10, 10] True True 5 5
+Struct # Br16V8 [722.57, 638.84, 301.3, 416.73, 357.44] [10, 10, 10, 10, 10] True True 5 5
+Struct # Cr16Cl32 [2198.82, 1982.95, 792.31, 707.83, 799.63] [10, 10, 10, 10, 10] True True 5 5
+Struct # F16Xe8 [3900.0, 3539.26, 1545.51, 0.0, 1018.09] [10, 10, 10, 0, 10] False False 5 5
+Struct # Zn16 [639.63, 567.99, 291.69, 613.06, 334.83] [10, 10, 10, 10, 10] True True 5 5
+Struct # Cr8N8 [892.02, 819.38, 468.42, 923.45, 487.4] [10, 10, 10, 10, 10] True True 5 5
+Struct # Ru8Zr8 [460.01, 410.43, 200.04, 408.61, 262.6] [10, 10, 10, 10, 10] True True 5 5
+Struct # Hg24O24 [1819.18, 1614.85, 643.36, 541.01, 605.15] [10, 10, 10, 10, 10] True True 5 5
+Struct # Cr8O16Li8 [3159.03, 2890.25, 1537.49, 1737.64, 1244.27] [10, 10, 10, 10, 10] True True 5 5
+Struct # Mn16F32 [3780.0, 3411.18, 1467.64, 0.0, 1189.75] [10, 10, 10, 0, 10] False False 5 5
+Struct # Cr8Br16 [731.82, 646.54, 303.28, 414.52, 382.61] [10, 10, 10, 10, 10] True True 5 5
+Struct # O16Rb16 [760.16, 680.39, 341.04, 311.77, 339.5] [10, 10, 10, 10, 10] True True 5 5
+Struct # Ir8Hf8 [276.82, 247.43, 135.29, 281.44, 200.85] [10, 10, 10, 10, 10] True True 5 5
+Struct # Ar16 [1455.69, 1301.25, 578.33, 0.0, 443.52] [10, 10, 10, 0, 10] False False 5 5
+Struct # Ne8 [1792.82, 1581.58, 719.52, 463.59, 478.59] [10, 10, 10, 10, 10] True True 5 5
+Struct # Cr8O32Sr16 [17880.0, 10020.0, 4200.0, 2442.42, 2474.63] [10, 10, 10, 10, 10] True True 5 5
+Struct # Mo16Cl80 [7080.0, 6360.0, 2365.69, 0.0, 1697.49] [10, 10, 10, 0, 10] False False 5 5
+Struct # Cr8K8O16 [8820.0, 7920.0, 3347.37, 2413.73, 2237.55] [10, 10, 10, 10, 10] True True 5 5
+Struct # Cs8H8 [168.76, 152.75, 67.86, 115.04, 148.93] [10, 10, 10, 10, 10] True True 5 5
+Struct # Te8Ba8 [391.97, 345.56, 170.2, 277.56, 216.55] [10, 10, 10, 10, 10] True True 5 5
+Struct # Sc8Rh24 [1373.65, 1227.29, 545.57, 591.15, 569.98] [10, 10, 10, 10, 10] True True 5 5
+Struct # F16Ti8 [1308.27, 722.79, 383.49, 685.02, 413.01] [10, 10, 10, 10, 10] True True 5 5
+Struct # Ni8 [759.14, 693.45, 440.75, 1528.45, 571.66] [10, 10, 10, 10, 10] True True 5 5
+Struct # C16O48Cd16 [5280.0, 4680.0, 1866.92, 1135.44, 1318.79] [10, 10, 10, 10, 10] True True 5 5
+Struct # Al8Fe8 [873.68, 809.89, 375.38, 577.95, 598.32] [10, 10, 10, 10, 10] True True 5 5
+Struct # Ni16As16 [962.39, 843.53, 370.44, 440.9, 397.87] [10, 10, 10, 10, 10] True True 5 5
+Struct # P8In8 [299.67, 274.03, 156.04, 294.07, 194.37] [10, 10, 10, 10, 10] True True 5 5
+Struct # W8 [187.56, 175.65, 116.56, 505.22, 174.32] [10, 10, 10, 10, 10] True True 5 5
+{u'insulating magnetic': OrderedDict([(u'I16V8', [[588.15, 518.66, 243.85, 307.8, 326.75]]), (u'Br16V8', [[722.57, 638.84, 301.3, 416.73, 357.44]]), (u'Cr8Br16', [[731.82, 646.54, 303.28, 414.52, 382.61]]), (u'F16Ti8', [[1308.27, 722.79, 383.49, 685.02, 413.01]]), (u'Co16F32', [[1799.92, 1561.5, 732.47, 728.05, 676.38]]), (u'Cr16F32', [[1976.98, 1788.02, 770.55, 770.93, 800.86]]), (u'Cr16Cl32', [[2198.82, 1982.95, 792.31, 707.83, 799.63]]), (u'Cr8O16Li8', [[3159.03, 2890.25, 1537.49, 1737.64, 1244.27]]), (u'Cr8O16Na8', [[4080.0, 3780.0, 1687.98, 1794.55, 1559.3]]), (u'Cr8K8O16', [[8820.0, 7920.0, 3347.37, 2413.73, 2237.55]])]), u'insulating': OrderedDict([(u'Cs8H8', [[168.76, 152.75, 67.86, 115.04, 148.93]]), (u'P8In8', [[299.67, 274.03, 156.04, 294.07, 194.37]]), (u'Ca8O8', [[356.37, 330.01, 195.45, 400.12, 241.94]]), (u'Te8Ba8', [[391.97, 345.56, 170.2, 277.56, 216.55]]), (u'O16Rb16', [[760.16, 680.39, 341.04, 311.77, 339.5]]), (u'Pb16O16', [[788.07, 697.76, 317.19, 303.77, 357.32]]), (u'I32Be16', [[1213.12, 1062.64, 458.31, 297.55, 387.53]]), (u'Ne8', [[1792.82, 1581.58, 719.52, 463.59, 478.59]]), (u'Hg24O24', [[1819.18, 1614.85, 643.36, 541.01, 605.15]]), (u'Tl32Se32', [[2404.88, 2108.92, 836.65, 529.51, 681.14]]), (u'C16O48Cd16', [[5280.0, 4680.0, 1866.92, 1135.44, 1318.79]])]), u'metallic magnetic': OrderedDict([(u'Ni8', [[759.14, 693.45, 440.75, 1528.45, 571.66]]), (u'Al8Fe8', [[873.68, 809.89, 375.38, 577.95, 598.32]]), (u'F24Ti8', [[880.88, 778.26, 381.47, 542.42, 439.91]]), (u'Cr8N8', [[892.02, 819.38, 468.42, 923.45, 487.4]]), (u'B16Fe16', [[8880.0, 4680.0, 1964.66, 1748.53, 1838.95]]), (u'Au32V8', [[9540.0, 8520.0, 3325.62, 2510.79, 3076.49]]), (u'Cr8O32Sr16', [[17880.0, 10020.0, 4200.0, 2442.42, 2474.63]])]), u'metallic': OrderedDict([(u'W8', [[187.56, 175.65, 116.56, 505.22, 174.32]]), (u'Ir8Hf8', [[276.82, 247.43, 135.29, 281.44, 200.85]]), (u'Nb8N8', [[323.8, 296.37, 153.14, 363.03, 232.07]]), (u'Os8Ti8', [[407.41, 354.44, 186.37, 390.39, 274.8]]), (u'Ru8Zr8', [[460.01, 410.43, 200.04, 408.61, 262.6]]), (u'Y8Ga16', [[520.92, 462.12, 235.93, 327.1, 256.13]]), (u'Re8Si16', [[596.89, 541.44, 307.11, 565.66, 362.63]]), (u'Zn16', [[639.63, 567.99, 291.69, 613.06, 334.83]]), (u'Ni16As16', [[962.39, 843.53, 370.44, 440.9, 397.87]]), (u'O16Pd16', [[1022.98, 906.01, 417.12, 488.38, 482.71]]), (u'S16Ta8', [[1144.97, 1026.12, 547.69, 765.95, 623.65]]), (u'Sc8Rh24', [[1373.65, 1227.29, 545.57, 591.15, 569.98]]), (u'Sc8Ag16', [[1979.04, 1743.07, 764.43, 1137.82, 1016.37]])])}
+Calculations with the same number of iterations:
+
+Os8Ti8 [[407.41, 354.44, 186.37, 390.39, 274.8]]
+Zn16 [[639.63, 567.99, 291.69, 613.06, 334.83]]
+I16V8 [[588.15, 518.66, 243.85, 307.8, 326.75]]
+F24Ti8 [[880.88, 778.26, 381.47, 542.42, 439.91]]
+S16Ta8 [[1144.97, 1026.12, 547.69, 765.95, 623.65]]
+Ca8O8 [[356.37, 330.01, 195.45, 400.12, 241.94]]
+Tl32Se32 [[2404.88, 2108.92, 836.65, 529.51, 681.14]]
+I32Be16 [[1213.12, 1062.64, 458.31, 297.55, 387.53]]
+O16Pd16 [[1022.98, 906.01, 417.12, 488.38, 482.71]]
+B16Fe16 [[8880.0, 4680.0, 1964.66, 1748.53, 1838.95]]
+Re8Si16 [[596.89, 541.44, 307.11, 565.66, 362.63]]
+Sc8Ag16 [[1979.04, 1743.07, 764.43, 1137.82, 1016.37]]
+Cr16F32 [[1976.98, 1788.02, 770.55, 770.93, 800.86]]
+P8In8 [[299.67, 274.03, 156.04, 294.07, 194.37]]
+Y8Ga16 [[520.92, 462.12, 235.93, 327.1, 256.13]]
+Br16V8 [[722.57, 638.84, 301.3, 416.73, 357.44]]
+Cr8O16Na8 [[4080.0, 3780.0, 1687.98, 1794.55, 1559.3]]
+Nb8N8 [[323.8, 296.37, 153.14, 363.03, 232.07]]
+Pb16O16 [[788.07, 697.76, 317.19, 303.77, 357.32]]
+Cr16Cl32 [[2198.82, 1982.95, 792.31, 707.83, 799.63]]
+Au32V8 [[9540.0, 8520.0, 3325.62, 2510.79, 3076.49]]
+Cr8N8 [[892.02, 819.38, 468.42, 923.45, 487.4]]
+Ru8Zr8 [[460.01, 410.43, 200.04, 408.61, 262.6]]
+Hg24O24 [[1819.18, 1614.85, 643.36, 541.01, 605.15]]
+W8 [[187.56, 175.65, 116.56, 505.22, 174.32]]
+Cr8O16Li8 [[3159.03, 2890.25, 1537.49, 1737.64, 1244.27]]
+O16Rb16 [[760.16, 680.39, 341.04, 311.77, 339.5]]
+Ir8Hf8 [[276.82, 247.43, 135.29, 281.44, 200.85]]
+Co16F32 [[1799.92, 1561.5, 732.47, 728.05, 676.38]]
+Ne8 [[1792.82, 1581.58, 719.52, 463.59, 478.59]]
+Cr8O32Sr16 [[17880.0, 10020.0, 4200.0, 2442.42, 2474.63]]
+Cr8K8O16 [[8820.0, 7920.0, 3347.37, 2413.73, 2237.55]]
+Cs8H8 [[168.76, 152.75, 67.86, 115.04, 148.93]]
+Te8Ba8 [[391.97, 345.56, 170.2, 277.56, 216.55]]
+F16Ti8 [[1308.27, 722.79, 383.49, 685.02, 413.01]]
+Ni8 [[759.14, 693.45, 440.75, 1528.45, 571.66]]
+C16O48Cd16 [[5280.0, 4680.0, 1866.92, 1135.44, 1318.79]]
+Al8Fe8 [[873.68, 809.89, 375.38, 577.95, 598.32]]
+Ni16As16 [[962.39, 843.53, 370.44, 440.9, 397.87]]
+Sc8Rh24 [[1373.65, 1227.29, 545.57, 591.15, 569.98]]
+Cr8Br16 [[731.82, 646.54, 303.28, 414.52, 382.61]]
+Calculations with the different number of iterations:
+
+Mn16Sn32 [[22200.0, 13440.0, 5820.0, 0.0, 3592.46]]
+F16Xe8 [[3900.0, 3539.26, 1545.51, 0.0, 1018.09]]
+Ge24Pt48 [[6060.0, 5340.0, 2040.01, 0.0, 2375.33]]
+Mg64Cu32 [[42720.0, 25260.0, 9900.0, 0.0, 7740.0]]
+Kr16 [[1416.17, 1256.9, 585.82, 0.0, 431.8]]
+I16Mn8 [[2534.76, 2259.26, 1090.81, 0.0, 909.94]]
+Mn16F32 [[3780.0, 3411.18, 1467.64, 0.0, 1189.75]]
+Mo16Cl80 [[7080.0, 6360.0, 2365.69, 0.0, 1697.49]]
+S16Mn16 [[6780.0, 3153.82, 1479.15, 0.0, 1266.8]]
+Mn16Bi16 [[5280.0, 4560.0, 2122.41, 0.0, 1737.59]]
+Ar16 [[1455.69, 1301.25, 578.33, 0.0, 443.52]]
+Sb16Mn16 [[4560.0, 4080.0, 1818.21, 0.0, 1401.29]]
